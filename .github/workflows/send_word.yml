@@ -1,0 +1,31 @@
+name: Send Japanese word daily
+
+on:
+  schedule:
+    # 04:00 UTC = 09:00 Tashkent (UTC+5)
+    - cron: "0 4 * * *"
+  workflow_dispatch: {}  # allow manual run
+
+jobs:
+  send-word:
+    runs-on: ubuntu-latest
+
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      JP_WORD_RECENT_WINDOW: ${{ secrets.JP_WORD_RECENT_WINDOW }}
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Send daily word
+        run: python src/jpbot/send_word.py
