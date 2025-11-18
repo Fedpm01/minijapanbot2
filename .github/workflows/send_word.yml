@@ -29,3 +29,14 @@ jobs:
 
       - name: Send daily word
         run: python send_word.py
+      - name: Debug env (no secrets printed)
+        run: |
+          python - << 'PY'
+          import os, reprlib
+          for k in ("TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID"):
+              v = os.getenv(k)
+              print(k, "set?", bool(v), "length:", len(v) if v else 0)
+              if v:
+                  print(k, "repr snippet:", repr(v[:10] + '...' if len(v) > 10 else v))
+                  print(k, "endswith newline?", v.endswith("\\n"))
+          PY
