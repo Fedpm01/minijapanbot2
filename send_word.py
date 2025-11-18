@@ -66,8 +66,8 @@ def save_history(root_dir: Path, history: dict) -> None:
 async def main() -> None:
     load_dotenv()  # load .env if present
 
-    token = os.getenv("TELEGRAM_BOT_TOKEN")
-    chat_id = os.getenv("TELEGRAM_CHAT_ID")
+    token = (os.getenv("TELEGRAM_BOT_TOKEN") or "").strip()
+    chat_id = (os.getenv("TELEGRAM_CHAT_ID") or "").strip()
 
     if not token or not chat_id:
         raise SystemExit("Missing TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID env vars.")
