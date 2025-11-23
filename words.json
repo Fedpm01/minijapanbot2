@@ -1,0 +1,5290 @@
+[
+  {
+    "kanji": "猫",
+    "kana": "ねこ",
+    "romaji": "neko",
+    "meaning": "cat",
+    "en": "cat",
+    "ru": "кот, кошка"
+  },
+  {
+    "kanji": "学校",
+    "kana": "がっこう",
+    "romaji": "gakkou",
+    "meaning": "school",
+    "en": "school",
+    "ru": "школа"
+  },
+  {
+    "kanji": "食べる",
+    "kana": "たべる",
+    "romaji": "taberu",
+    "meaning": "to eat",
+    "en": "to eat",
+    "ru": "есть (кушать)"
+  },
+  {
+    "kanji": "飲む",
+    "kana": "のむ",
+    "romaji": "nomu",
+    "meaning": "to drink",
+    "en": "to drink",
+    "ru": "пить"
+  },
+  {
+    "kanji": "友達",
+    "kana": "ともだち",
+    "romaji": "tomodachi",
+    "meaning": "friend",
+    "en": "friend",
+    "ru": "друг"
+  },
+  {
+    "kanji": "雨",
+    "kana": "あめ",
+    "romaji": "ame",
+    "meaning": "rain",
+    "en": "rain",
+    "ru": "дождь"
+  },
+  {
+    "kanji": "本",
+    "kana": "ほん",
+    "romaji": "hon",
+    "meaning": "book",
+    "en": "book",
+    "ru": "книга"
+  },
+  {
+    "kanji": "先生",
+    "kana": "せんせい",
+    "romaji": "sensei",
+    "meaning": "teacher",
+    "en": "teacher",
+    "ru": "учитель"
+  },
+  {
+    "kanji": "電車",
+    "kana": "でんしゃ",
+    "romaji": "densha",
+    "meaning": "train",
+    "en": "train",
+    "ru": "поезд"
+  },
+  {
+    "kanji": "朝",
+    "kana": "あさ",
+    "romaji": "asa",
+    "meaning": "morning",
+    "en": "morning",
+    "ru": "утро"
+  },
+  {
+    "kanji": "犬",
+    "kana": "いぬ",
+    "romaji": "inu",
+    "meaning": "dog",
+    "en": "dog",
+    "ru": "собака"
+  },
+  {
+    "kanji": "鳥",
+    "kana": "とり",
+    "romaji": "tori",
+    "meaning": "bird",
+    "en": "bird",
+    "ru": "птица"
+  },
+  {
+    "kanji": "魚",
+    "kana": "さかな",
+    "romaji": "sakana",
+    "meaning": "fish",
+    "en": "fish",
+    "ru": "рыба"
+  },
+  {
+    "kanji": "馬",
+    "kana": "うま",
+    "romaji": "uma",
+    "meaning": "horse",
+    "en": "horse",
+    "ru": "лошадь"
+  },
+  {
+    "kanji": "牛",
+    "kana": "うし",
+    "romaji": "ushi",
+    "meaning": "cow",
+    "en": "cow",
+    "ru": "корова"
+  },
+  {
+    "kanji": "豚",
+    "kana": "ぶた",
+    "romaji": "buta",
+    "meaning": "pig",
+    "en": "pig",
+    "ru": "свинья"
+  },
+  {
+    "kanji": "鶏",
+    "kana": "にわとり",
+    "romaji": "niwatori",
+    "meaning": "chicken",
+    "en": "chicken",
+    "ru": "курица"
+  },
+  {
+    "kanji": "家",
+    "kana": "いえ",
+    "romaji": "ie",
+    "meaning": "house",
+    "en": "house",
+    "ru": "дом"
+  },
+  {
+    "kanji": "部屋",
+    "kana": "へや",
+    "romaji": "heya",
+    "meaning": "room",
+    "en": "room",
+    "ru": "комната"
+  },
+  {
+    "kanji": "台所",
+    "kana": "だいどころ",
+    "romaji": "daidokoro",
+    "meaning": "kitchen",
+    "en": "kitchen",
+    "ru": "кухня"
+  },
+  {
+    "kanji": "風呂",
+    "kana": "ふろ",
+    "romaji": "furo",
+    "meaning": "bath",
+    "en": "bath",
+    "ru": "ванна"
+  },
+  {
+    "kanji": "トイレ",
+    "kana": "トイレ",
+    "romaji": "toire",
+    "meaning": "toilet",
+    "en": "toilet",
+    "ru": "туалет"
+  },
+  {
+    "kanji": "窓",
+    "kana": "まど",
+    "romaji": "mado",
+    "meaning": "window",
+    "en": "window",
+    "ru": "окно"
+  },
+  {
+    "kanji": "扉",
+    "kana": "とびら",
+    "romaji": "tobira",
+    "meaning": "door",
+    "en": "door",
+    "ru": "дверь"
+  },
+  {
+    "kanji": "鍵",
+    "kana": "かぎ",
+    "romaji": "kagi",
+    "meaning": "key",
+    "en": "key",
+    "ru": "ключ"
+  },
+  {
+    "kanji": "椅子",
+    "kana": "いす",
+    "romaji": "isu",
+    "meaning": "chair",
+    "en": "chair",
+    "ru": "стул"
+  },
+  {
+    "kanji": "机",
+    "kana": "つくえ",
+    "romaji": "tsukue",
+    "meaning": "desk",
+    "en": "desk",
+    "ru": "письменный стол"
+  },
+  {
+    "kanji": "本棚",
+    "kana": "ほんだな",
+    "romaji": "hondana",
+    "meaning": "bookshelf",
+    "en": "bookshelf",
+    "ru": "книжная полка"
+  },
+  {
+    "kanji": "電話",
+    "kana": "でんわ",
+    "romaji": "denwa",
+    "meaning": "telephone",
+    "en": "telephone",
+    "ru": "телефон"
+  },
+  {
+    "kanji": "携帯",
+    "kana": "けいたい",
+    "romaji": "keitai",
+    "meaning": "mobile phone",
+    "en": "mobile phone",
+    "ru": "мобильный телефон"
+  },
+  {
+    "kanji": "時計",
+    "kana": "とけい",
+    "romaji": "tokei",
+    "meaning": "clock",
+    "en": "clock",
+    "ru": "часы"
+  },
+  {
+    "kanji": "財布",
+    "kana": "さいふ",
+    "romaji": "saifu",
+    "meaning": "wallet",
+    "en": "wallet",
+    "ru": "кошелёк"
+  },
+  {
+    "kanji": "傘",
+    "kana": "かさ",
+    "romaji": "kasa",
+    "meaning": "umbrella",
+    "en": "umbrella",
+    "ru": "зонт"
+  },
+  {
+    "kanji": "鞄",
+    "kana": "かばん",
+    "romaji": "kaban",
+    "meaning": "bag",
+    "en": "bag",
+    "ru": "сумка"
+  },
+  {
+    "kanji": "靴",
+    "kana": "くつ",
+    "romaji": "kutsu",
+    "meaning": "shoes",
+    "en": "shoes",
+    "ru": "обувь"
+  },
+  {
+    "kanji": "帽子",
+    "kana": "ぼうし",
+    "romaji": "boushi",
+    "meaning": "hat",
+    "en": "hat",
+    "ru": "шляпа"
+  },
+  {
+    "kanji": "服",
+    "kana": "ふく",
+    "romaji": "fuku",
+    "meaning": "clothes",
+    "en": "clothes",
+    "ru": "одежда"
+  },
+  {
+    "kanji": "シャツ",
+    "kana": "シャツ",
+    "romaji": "shatsu",
+    "meaning": "shirt",
+    "en": "shirt",
+    "ru": "рубашка"
+  },
+  {
+    "kanji": "ズボン",
+    "kana": "ズボン",
+    "romaji": "zubon",
+    "meaning": "pants",
+    "en": "pants",
+    "ru": "штаны"
+  },
+  {
+    "kanji": "スカート",
+    "kana": "スカート",
+    "romaji": "sukaato",
+    "meaning": "skirt",
+    "en": "skirt",
+    "ru": "юбка"
+  },
+  {
+    "kanji": "コート",
+    "kana": "コート",
+    "romaji": "kooto",
+    "meaning": "coat",
+    "en": "coat",
+    "ru": "пальто"
+  },
+  {
+    "kanji": "手",
+    "kana": "て",
+    "romaji": "te",
+    "meaning": "hand",
+    "en": "hand",
+    "ru": "рука (кисть)"
+  },
+  {
+    "kanji": "足",
+    "kana": "あし",
+    "romaji": "ashi",
+    "meaning": "leg; foot",
+    "en": "leg; foot",
+    "ru": "нога; ступня"
+  },
+  {
+    "kanji": "頭",
+    "kana": "あたま",
+    "romaji": "atama",
+    "meaning": "head",
+    "en": "head",
+    "ru": "голова"
+  },
+  {
+    "kanji": "目",
+    "kana": "め",
+    "romaji": "me",
+    "meaning": "eye",
+    "en": "eye",
+    "ru": "глаз"
+  },
+  {
+    "kanji": "口",
+    "kana": "くち",
+    "romaji": "kuchi",
+    "meaning": "mouth",
+    "en": "mouth",
+    "ru": "рот"
+  },
+  {
+    "kanji": "耳",
+    "kana": "みみ",
+    "romaji": "mimi",
+    "meaning": "ear",
+    "en": "ear",
+    "ru": "ухо"
+  },
+  {
+    "kanji": "鼻",
+    "kana": "はな",
+    "romaji": "hana",
+    "meaning": "nose",
+    "en": "nose",
+    "ru": "нос"
+  },
+  {
+    "kanji": "髪",
+    "kana": "かみ",
+    "romaji": "kami",
+    "meaning": "hair",
+    "en": "hair",
+    "ru": "волосы"
+  },
+  {
+    "kanji": "顔",
+    "kana": "かお",
+    "romaji": "kao",
+    "meaning": "face",
+    "en": "face",
+    "ru": "лицо"
+  },
+  {
+    "kanji": "体",
+    "kana": "からだ",
+    "romaji": "karada",
+    "meaning": "body",
+    "en": "body",
+    "ru": "тело"
+  },
+  {
+    "kanji": "病院",
+    "kana": "びょういん",
+    "romaji": "byouin",
+    "meaning": "hospital",
+    "en": "hospital",
+    "ru": "больница"
+  },
+  {
+    "kanji": "薬",
+    "kana": "くすり",
+    "romaji": "kusuri",
+    "meaning": "medicine",
+    "en": "medicine",
+    "ru": "лекарство"
+  },
+  {
+    "kanji": "元気",
+    "kana": "げんき",
+    "romaji": "genki",
+    "meaning": "healthy; energetic",
+    "en": "healthy; energetic",
+    "ru": "здоровый; бодрый"
+  },
+  {
+    "kanji": "痛い",
+    "kana": "いたい",
+    "romaji": "itai",
+    "meaning": "painful; hurts",
+    "en": "painful; hurts",
+    "ru": "болит; болезненный"
+  },
+  {
+    "kanji": "熱",
+    "kana": "ねつ",
+    "romaji": "netsu",
+    "meaning": "fever",
+    "en": "fever",
+    "ru": "жар, температура"
+  },
+  {
+    "kanji": "風邪",
+    "kana": "かぜ",
+    "romaji": "kaze",
+    "meaning": "cold (illness)",
+    "en": "cold (illness)",
+    "ru": "простуда"
+  },
+  {
+    "kanji": "水",
+    "kana": "みず",
+    "romaji": "mizu",
+    "meaning": "water",
+    "en": "water",
+    "ru": "вода"
+  },
+  {
+    "kanji": "お茶",
+    "kana": "おちゃ",
+    "romaji": "ocha",
+    "meaning": "tea",
+    "en": "tea",
+    "ru": "чай"
+  },
+  {
+    "kanji": "コーヒー",
+    "kana": "コーヒー",
+    "romaji": "koohii",
+    "meaning": "coffee",
+    "en": "coffee",
+    "ru": "кофе"
+  },
+  {
+    "kanji": "牛乳",
+    "kana": "ぎゅうにゅう",
+    "romaji": "gyuunyuu",
+    "meaning": "milk",
+    "en": "milk",
+    "ru": "молоко"
+  },
+  {
+    "kanji": "ジュース",
+    "kana": "ジュース",
+    "romaji": "juusu",
+    "meaning": "juice",
+    "en": "juice",
+    "ru": "сок"
+  },
+  {
+    "kanji": "酒",
+    "kana": "さけ",
+    "romaji": "sake",
+    "meaning": "alcohol; sake",
+    "en": "alcohol; sake",
+    "ru": "алкоголь; сакэ"
+  },
+  {
+    "kanji": "ご飯",
+    "kana": "ごはん",
+    "romaji": "gohan",
+    "meaning": "cooked rice; meal",
+    "en": "cooked rice; meal",
+    "ru": "рис; еда"
+  },
+  {
+    "kanji": "パン",
+    "kana": "パン",
+    "romaji": "pan",
+    "meaning": "bread",
+    "en": "bread",
+    "ru": "хлеб"
+  },
+  {
+    "kanji": "卵",
+    "kana": "たまご",
+    "romaji": "tamago",
+    "meaning": "egg",
+    "en": "egg",
+    "ru": "яйцо"
+  },
+  {
+    "kanji": "肉",
+    "kana": "にく",
+    "romaji": "niku",
+    "meaning": "meat",
+    "en": "meat",
+    "ru": "мясо"
+  },
+  {
+    "kanji": "魚",
+    "kana": "さかな",
+    "romaji": "sakana",
+    "meaning": "fish",
+    "en": "fish",
+    "ru": "рыба"
+  },
+  {
+    "kanji": "野菜",
+    "kana": "やさい",
+    "romaji": "yasai",
+    "meaning": "vegetables",
+    "en": "vegetables",
+    "ru": "овощи"
+  },
+  {
+    "kanji": "果物",
+    "kana": "くだもの",
+    "romaji": "kudamono",
+    "meaning": "fruit",
+    "en": "fruit",
+    "ru": "фрукты"
+  },
+  {
+    "kanji": "りんご",
+    "kana": "りんご",
+    "romaji": "ringo",
+    "meaning": "apple",
+    "en": "apple",
+    "ru": "яблоко"
+  },
+  {
+    "kanji": "みかん",
+    "kana": "みかん",
+    "romaji": "mikan",
+    "meaning": "mandarin orange",
+    "en": "mandarin orange",
+    "ru": "мандарин"
+  },
+  {
+    "kanji": "バナナ",
+    "kana": "バナナ",
+    "romaji": "banana",
+    "meaning": "banana",
+    "en": "banana",
+    "ru": "банан"
+  },
+  {
+    "kanji": "いちご",
+    "kana": "いちご",
+    "romaji": "ichigo",
+    "meaning": "strawberry",
+    "en": "strawberry",
+    "ru": "клубника"
+  },
+  {
+    "kanji": "ぶどう",
+    "kana": "ぶどう",
+    "romaji": "budou",
+    "meaning": "grapes",
+    "en": "grapes",
+    "ru": "виноград"
+  },
+  {
+    "kanji": "砂糖",
+    "kana": "さとう",
+    "romaji": "satou",
+    "meaning": "sugar",
+    "en": "sugar",
+    "ru": "сахар"
+  },
+  {
+    "kanji": "塩",
+    "kana": "しお",
+    "romaji": "shio",
+    "meaning": "salt",
+    "en": "salt",
+    "ru": "соль"
+  },
+  {
+    "kanji": "胡椒",
+    "kana": "こしょう",
+    "romaji": "koshou",
+    "meaning": "pepper (spice)",
+    "en": "pepper (spice)",
+    "ru": "перец (специя)"
+  },
+  {
+    "kanji": "醤油",
+    "kana": "しょうゆ",
+    "romaji": "shouyu",
+    "meaning": "soy sauce",
+    "en": "soy sauce",
+    "ru": "соевый соус"
+  },
+  {
+    "kanji": "ごみ",
+    "kana": "ごみ",
+    "romaji": "gomi",
+    "meaning": "trash",
+    "en": "trash",
+    "ru": "мусор"
+  },
+  {
+    "kanji": "行く",
+    "kana": "いく",
+    "romaji": "iku",
+    "meaning": "to go",
+    "en": "to go",
+    "ru": "идти"
+  },
+  {
+    "kanji": "来る",
+    "kana": "くる",
+    "romaji": "kuru",
+    "meaning": "to come",
+    "en": "to come",
+    "ru": "приходить"
+  },
+  {
+    "kanji": "帰る",
+    "kana": "かえる",
+    "romaji": "kaeru",
+    "meaning": "to return (home)",
+    "en": "to return (home)",
+    "ru": "возвращаться"
+  },
+  {
+    "kanji": "見る",
+    "kana": "みる",
+    "romaji": "miru",
+    "meaning": "to see; to watch",
+    "en": "to see; to watch",
+    "ru": "видеть; смотреть"
+  },
+  {
+    "kanji": "聞く",
+    "kana": "きく",
+    "romaji": "kiku",
+    "meaning": "to listen; to ask",
+    "en": "to listen; to ask",
+    "ru": "слушать; спрашивать"
+  },
+  {
+    "kanji": "話す",
+    "kana": "はなす",
+    "romaji": "hanasu",
+    "meaning": "to speak",
+    "en": "to speak",
+    "ru": "говорить"
+  },
+  {
+    "kanji": "読む",
+    "kana": "よむ",
+    "romaji": "yomu",
+    "meaning": "to read",
+    "en": "to read",
+    "ru": "читать"
+  },
+  {
+    "kanji": "書く",
+    "kana": "かく",
+    "romaji": "kaku",
+    "meaning": "to write",
+    "en": "to write",
+    "ru": "писать"
+  },
+  {
+    "kanji": "買う",
+    "kana": "かう",
+    "romaji": "kau",
+    "meaning": "to buy",
+    "en": "to buy",
+    "ru": "покупать"
+  },
+  {
+    "kanji": "売る",
+    "kana": "うる",
+    "romaji": "uru",
+    "meaning": "to sell",
+    "en": "to sell",
+    "ru": "продавать"
+  },
+  {
+    "kanji": "使う",
+    "kana": "つかう",
+    "romaji": "tsukau",
+    "meaning": "to use",
+    "en": "to use",
+    "ru": "использовать"
+  },
+  {
+    "kanji": "作る",
+    "kana": "つくる",
+    "romaji": "tsukuru",
+    "meaning": "to make",
+    "en": "to make",
+    "ru": "делать, создавать"
+  },
+  {
+    "kanji": "働く",
+    "kana": "はたらく",
+    "romaji": "hataraku",
+    "meaning": "to work",
+    "en": "to work",
+    "ru": "работать"
+  },
+  {
+    "kanji": "勉強する",
+    "kana": "べんきょうする",
+    "romaji": "benkyou suru",
+    "meaning": "to study",
+    "en": "to study",
+    "ru": "учиться"
+  },
+  {
+    "kanji": "練習する",
+    "kana": "れんしゅうする",
+    "romaji": "renshuu suru",
+    "meaning": "to practice",
+    "en": "to practice",
+    "ru": "тренироваться, практиковаться"
+  },
+  {
+    "kanji": "運転する",
+    "kana": "うんてんする",
+    "romaji": "unten suru",
+    "meaning": "to drive",
+    "en": "to drive",
+    "ru": "водить (машину)"
+  },
+  {
+    "kanji": "旅行する",
+    "kana": "りょこうする",
+    "romaji": "ryokou suru",
+    "meaning": "to travel",
+    "en": "to travel",
+    "ru": "путешествовать"
+  },
+  {
+    "kanji": "電話する",
+    "kana": "でんわする",
+    "romaji": "denwa suru",
+    "meaning": "to make a phone call",
+    "en": "to call (phone)",
+    "ru": "звонить"
+  },
+  {
+    "kanji": "起きる",
+    "kana": "おきる",
+    "romaji": "okiru",
+    "meaning": "to get up",
+    "en": "to get up",
+    "ru": "просыпаться, вставать"
+  },
+  {
+    "kanji": "寝る",
+    "kana": "ねる",
+    "romaji": "neru",
+    "meaning": "to sleep",
+    "en": "to sleep",
+    "ru": "спать"
+  },
+  {
+    "kanji": "休む",
+    "kana": "やすむ",
+    "romaji": "yasumu",
+    "meaning": "to rest; to take a day off",
+    "en": "to rest; to take a day off",
+    "ru": "отдыхать; брать выходной"
+  },
+  {
+    "kanji": "走る",
+    "kana": "はしる",
+    "romaji": "hashiru",
+    "meaning": "to run",
+    "en": "to run",
+    "ru": "бежать"
+  },
+  {
+    "kanji": "歩く",
+    "kana": "あるく",
+    "romaji": "aruku",
+    "meaning": "to walk",
+    "en": "to walk",
+    "ru": "идти пешком"
+  },
+  {
+    "kanji": "立つ",
+    "kana": "たつ",
+    "romaji": "tatsu",
+    "meaning": "to stand",
+    "en": "to stand",
+    "ru": "вставать"
+  },
+  {
+    "kanji": "座る",
+    "kana": "すわる",
+    "romaji": "suwaru",
+    "meaning": "to sit",
+    "en": "to sit",
+    "ru": "садиться"
+  },
+  {
+    "kanji": "開ける",
+    "kana": "あける",
+    "romaji": "akeru",
+    "meaning": "to open (something)",
+    "en": "to open (something)",
+    "ru": "открывать"
+  },
+  {
+    "kanji": "閉める",
+    "kana": "しめる",
+    "romaji": "shimeru",
+    "meaning": "to close (something)",
+    "en": "to close (something)",
+    "ru": "закрывать"
+  },
+  {
+    "kanji": "開く",
+    "kana": "あく",
+    "romaji": "aku",
+    "meaning": "to open (intransitive)",
+    "en": "to open (intransitive)",
+    "ru": "открываться"
+  },
+  {
+    "kanji": "閉まる",
+    "kana": "しまる",
+    "romaji": "shimaru",
+    "meaning": "to close (intransitive)",
+    "en": "to close (intransitive)",
+    "ru": "закрываться"
+  },
+  {
+    "kanji": "入る",
+    "kana": "はいる",
+    "romaji": "hairu",
+    "meaning": "to enter",
+    "en": "to enter",
+    "ru": "входить"
+  },
+  {
+    "kanji": "出る",
+    "kana": "でる",
+    "romaji": "deru",
+    "meaning": "to exit; to leave",
+    "en": "to exit; to leave",
+    "ru": "выходить; покидать"
+  },
+  {
+    "kanji": "持つ",
+    "kana": "もつ",
+    "romaji": "motsu",
+    "meaning": "to hold; to have",
+    "en": "to hold; to have",
+    "ru": "держать; иметь"
+  },
+  {
+    "kanji": "取る",
+    "kana": "とる",
+    "romaji": "toru",
+    "meaning": "to take",
+    "en": "to take",
+    "ru": "брать"
+  },
+  {
+    "kanji": "置く",
+    "kana": "おく",
+    "romaji": "oku",
+    "meaning": "to put; to place",
+    "en": "to put; to place",
+    "ru": "класть"
+  },
+  {
+    "kanji": "作業する",
+    "kana": "さぎょうする",
+    "romaji": "sagyou suru",
+    "meaning": "to work (do work)",
+    "en": "to work (do tasks)",
+    "ru": "выполнять работу"
+  },
+  {
+    "kanji": "洗う",
+    "kana": "あらう",
+    "romaji": "arau",
+    "meaning": "to wash",
+    "en": "to wash",
+    "ru": "мыть"
+  },
+  {
+    "kanji": "掃除する",
+    "kana": "そうじする",
+    "romaji": "souji suru",
+    "meaning": "to clean",
+    "en": "to clean",
+    "ru": "убирать"
+  },
+  {
+    "kanji": "料理する",
+    "kana": "りょうりする",
+    "romaji": "ryouri suru",
+    "meaning": "to cook",
+    "en": "to cook",
+    "ru": "готовить"
+  },
+  {
+    "kanji": "買い物する",
+    "kana": "かいものする",
+    "romaji": "kaimono suru",
+    "meaning": "to shop",
+    "en": "to shop",
+    "ru": "делать покупки"
+  },
+  {
+    "kanji": "散歩する",
+    "kana": "さんぽする",
+    "romaji": "sanpo suru",
+    "meaning": "to take a walk",
+    "en": "to take a walk",
+    "ru": "гулять"
+  },
+  {
+    "kanji": "泳ぐ",
+    "kana": "およぐ",
+    "romaji": "oyogu",
+    "meaning": "to swim",
+    "en": "to swim",
+    "ru": "плавать"
+  },
+  {
+    "kanji": "大きい",
+    "kana": "おおきい",
+    "romaji": "ookii",
+    "meaning": "big",
+    "en": "big",
+    "ru": "большой"
+  },
+  {
+    "kanji": "小さい",
+    "kana": "ちいさい",
+    "romaji": "chiisai",
+    "meaning": "small",
+    "en": "small",
+    "ru": "маленький"
+  },
+  {
+    "kanji": "新しい",
+    "kana": "あたらしい",
+    "romaji": "atarashii",
+    "meaning": "new",
+    "en": "new",
+    "ru": "новый"
+  },
+  {
+    "kanji": "古い",
+    "kana": "ふるい",
+    "romaji": "furui",
+    "meaning": "old (things)",
+    "en": "old (things)",
+    "ru": "старый (о вещах)"
+  },
+  {
+    "kanji": "高い",
+    "kana": "たかい",
+    "romaji": "takai",
+    "meaning": "tall; expensive",
+    "en": "tall; expensive",
+    "ru": "высокий; дорогой"
+  },
+  {
+    "kanji": "低い",
+    "kana": "ひくい",
+    "romaji": "hikui",
+    "meaning": "low; short (height)",
+    "en": "low; short",
+    "ru": "низкий"
+  },
+  {
+    "kanji": "安い",
+    "kana": "やすい",
+    "romaji": "yasui",
+    "meaning": "cheap",
+    "en": "cheap",
+    "ru": "дешёвый"
+  },
+  {
+    "kanji": "速い",
+    "kana": "はやい",
+    "romaji": "hayai",
+    "meaning": "fast",
+    "en": "fast",
+    "ru": "быстрый"
+  },
+  {
+    "kanji": "遅い",
+    "kana": "おそい",
+    "romaji": "osoi",
+    "meaning": "slow; late",
+    "en": "slow; late",
+    "ru": "медленный; поздний"
+  },
+  {
+    "kanji": "暑い",
+    "kana": "あつい",
+    "romaji": "atsui",
+    "meaning": "hot (weather)",
+    "en": "hot (weather)",
+    "ru": "жаркий"
+  },
+  {
+    "kanji": "寒い",
+    "kana": "さむい",
+    "romaji": "samui",
+    "meaning": "cold (weather)",
+    "en": "cold (weather)",
+    "ru": "холодный (погода)"
+  },
+  {
+    "kanji": "熱い",
+    "kana": "あつい",
+    "romaji": "atsui",
+    "meaning": "hot (to the touch)",
+    "en": "hot (to the touch)",
+    "ru": "горячий (на ощупь)"
+  },
+  {
+    "kanji": "冷たい",
+    "kana": "つめたい",
+    "romaji": "tsumetai",
+    "meaning": "cold (to the touch)",
+    "en": "cold (to the touch)",
+    "ru": "холодный (на ощупь)"
+  },
+  {
+    "kanji": "忙しい",
+    "kana": "いそがしい",
+    "romaji": "isogashii",
+    "meaning": "busy",
+    "en": "busy",
+    "ru": "занятой"
+  },
+  {
+    "kanji": "楽しい",
+    "kana": "たのしい",
+    "romaji": "tanoshii",
+    "meaning": "fun",
+    "en": "fun",
+    "ru": "весёлый, приятный"
+  },
+  {
+    "kanji": "面白い",
+    "kana": "おもしろい",
+    "romaji": "omoshiroi",
+    "meaning": "interesting",
+    "en": "interesting",
+    "ru": "интересный"
+  },
+  {
+    "kanji": "きれい",
+    "kana": "きれい",
+    "romaji": "kirei",
+    "meaning": "pretty; clean",
+    "en": "pretty; clean",
+    "ru": "красивый; чистый"
+  },
+  {
+    "kanji": "静か",
+    "kana": "しずか",
+    "romaji": "shizuka",
+    "meaning": "quiet",
+    "en": "quiet",
+    "ru": "тихий"
+  },
+  {
+    "kanji": "有名",
+    "kana": "ゆうめい",
+    "romaji": "yuumei",
+    "meaning": "famous",
+    "en": "famous",
+    "ru": "известный"
+  },
+  {
+    "kanji": "元気",
+    "kana": "げんき",
+    "romaji": "genki",
+    "meaning": "healthy; lively",
+    "en": "healthy; lively",
+    "ru": "здоровый; бодрый"
+  },
+  {
+    "kanji": "便利",
+    "kana": "べんり",
+    "romaji": "benri",
+    "meaning": "convenient",
+    "en": "convenient",
+    "ru": "удобный"
+  },
+  {
+    "kanji": "不便",
+    "kana": "ふべん",
+    "romaji": "fuben",
+    "meaning": "inconvenient",
+    "en": "inconvenient",
+    "ru": "неудобный"
+  },
+  {
+    "kanji": "簡単",
+    "kana": "かんたん",
+    "romaji": "kantan",
+    "meaning": "simple",
+    "en": "simple",
+    "ru": "простой"
+  },
+  {
+    "kanji": "難しい",
+    "kana": "むずかしい",
+    "romaji": "muzukashii",
+    "meaning": "difficult",
+    "en": "difficult",
+    "ru": "трудный"
+  },
+  {
+    "kanji": "近い",
+    "kana": "ちかい",
+    "romaji": "chikai",
+    "meaning": "near",
+    "en": "near",
+    "ru": "близкий"
+  },
+  {
+    "kanji": "遠い",
+    "kana": "とおい",
+    "romaji": "tooi",
+    "meaning": "far",
+    "en": "far",
+    "ru": "далёкий"
+  },
+  {
+    "kanji": "長い",
+    "kana": "ながい",
+    "romaji": "nagai",
+    "meaning": "long",
+    "en": "long",
+    "ru": "длинный"
+  },
+  {
+    "kanji": "短い",
+    "kana": "みじかい",
+    "romaji": "mijikai",
+    "meaning": "short",
+    "en": "short",
+    "ru": "короткий"
+  },
+  {
+    "kanji": "広い",
+    "kana": "ひろい",
+    "romaji": "hiroi",
+    "meaning": "spacious; wide",
+    "en": "spacious; wide",
+    "ru": "просторный; широкий"
+  },
+  {
+    "kanji": "狭い",
+    "kana": "せまい",
+    "romaji": "semai",
+    "meaning": "narrow",
+    "en": "narrow",
+    "ru": "узкий"
+  },
+  {
+    "kanji": "重い",
+    "kana": "おもい",
+    "romaji": "omoi",
+    "meaning": "heavy",
+    "en": "heavy",
+    "ru": "тяжёлый"
+  },
+  {
+    "kanji": "軽い",
+    "kana": "かるい",
+    "romaji": "karui",
+    "meaning": "light (weight)",
+    "en": "light (weight)",
+    "ru": "лёгкий (вес)"
+  },
+  {
+    "kanji": "甘い",
+    "kana": "あまい",
+    "romaji": "amai",
+    "meaning": "sweet",
+    "en": "sweet",
+    "ru": "сладкий"
+  },
+  {
+    "kanji": "辛い",
+    "kana": "からい",
+    "romaji": "karai",
+    "meaning": "spicy; salty",
+    "en": "spicy; salty",
+    "ru": "острый; солёный"
+  },
+  {
+    "kanji": "苦い",
+    "kana": "にがい",
+    "romaji": "nigai",
+    "meaning": "bitter",
+    "en": "bitter",
+    "ru": "горький"
+  },
+  {
+    "kanji": "酸っぱい",
+    "kana": "すっぱい",
+    "romaji": "suppai",
+    "meaning": "sour",
+    "en": "sour",
+    "ru": "кислый"
+  },
+  {
+    "kanji": "うるさい",
+    "kana": "うるさい",
+    "romaji": "urusai",
+    "meaning": "noisy; annoying",
+    "en": "noisy; annoying",
+    "ru": "шумный; назойливый"
+  },
+  {
+    "kanji": "親切",
+    "kana": "しんせつ",
+    "romaji": "shinsetsu",
+    "meaning": "kind",
+    "en": "kind",
+    "ru": "добрый, любезный"
+  },
+  {
+    "kanji": "危ない",
+    "kana": "あぶない",
+    "romaji": "abunai",
+    "meaning": "dangerous",
+    "en": "dangerous",
+    "ru": "опасный"
+  },
+  {
+    "kanji": "安全",
+    "kana": "あんぜん",
+    "romaji": "anzen",
+    "meaning": "safe",
+    "en": "safe",
+    "ru": "безопасный"
+  },
+  {
+    "kanji": "大切",
+    "kana": "たいせつ",
+    "romaji": "taisetsu",
+    "meaning": "important",
+    "en": "important",
+    "ru": "важный"
+  },
+  {
+    "kanji": "大丈夫",
+    "kana": "だいじょうぶ",
+    "romaji": "daijoubu",
+    "meaning": "all right; OK",
+    "en": "OK; all right",
+    "ru": "в порядке"
+  },
+  {
+    "kanji": "日本",
+    "kana": "にほん",
+    "romaji": "nihon",
+    "meaning": "Japan",
+    "en": "Japan",
+    "ru": "Япония"
+  },
+  {
+    "kanji": "日本語",
+    "kana": "にほんご",
+    "romaji": "nihongo",
+    "meaning": "Japanese (language)",
+    "en": "Japanese (language)",
+    "ru": "японский язык"
+  },
+  {
+    "kanji": "英語",
+    "kana": "えいご",
+    "romaji": "eigo",
+    "meaning": "English (language)",
+    "en": "English",
+    "ru": "английский язык"
+  },
+  {
+    "kanji": "ロシア語",
+    "kana": "ロシアご",
+    "romaji": "roshiago",
+    "meaning": "Russian (language)",
+    "en": "Russian",
+    "ru": "русский язык"
+  },
+  {
+    "kanji": "学生",
+    "kana": "がくせい",
+    "romaji": "gakusei",
+    "meaning": "student",
+    "en": "student",
+    "ru": "студент"
+  },
+  {
+    "kanji": "生徒",
+    "kana": "せいと",
+    "romaji": "seito",
+    "meaning": "pupil",
+    "en": "pupil",
+    "ru": "ученик"
+  },
+  {
+    "kanji": "大学",
+    "kana": "だいがく",
+    "romaji": "daigaku",
+    "meaning": "university",
+    "en": "university",
+    "ru": "университет"
+  },
+  {
+    "kanji": "高校",
+    "kana": "こうこう",
+    "romaji": "koukou",
+    "meaning": "high school",
+    "en": "high school",
+    "ru": "старшая школа"
+  },
+  {
+    "kanji": "中学校",
+    "kana": "ちゅうがっこう",
+    "romaji": "chuugakkou",
+    "meaning": "junior high school",
+    "en": "junior high school",
+    "ru": "средняя школа"
+  },
+  {
+    "kanji": "小学校",
+    "kana": "しょうがっこう",
+    "romaji": "shougakkou",
+    "meaning": "elementary school",
+    "en": "elementary school",
+    "ru": "начальная школа"
+  },
+  {
+    "kanji": "教室",
+    "kana": "きょうしつ",
+    "romaji": "kyoushitsu",
+    "meaning": "classroom",
+    "en": "classroom",
+    "ru": "класс"
+  },
+  {
+    "kanji": "図書館",
+    "kana": "としょかん",
+    "romaji": "toshokan",
+    "meaning": "library",
+    "en": "library",
+    "ru": "библиотека"
+  },
+  {
+    "kanji": "先生",
+    "kana": "せんせい",
+    "romaji": "sensei",
+    "meaning": "teacher",
+    "en": "teacher",
+    "ru": "учитель"
+  },
+  {
+    "kanji": "試験",
+    "kana": "しけん",
+    "romaji": "shiken",
+    "meaning": "exam",
+    "en": "exam",
+    "ru": "экзамен"
+  },
+  {
+    "kanji": "宿題",
+    "kana": "しゅくだい",
+    "romaji": "shukudai",
+    "meaning": "homework",
+    "en": "homework",
+    "ru": "домашнее задание"
+  },
+  {
+    "kanji": "成績",
+    "kana": "せいせき",
+    "romaji": "seiseki",
+    "meaning": "grades",
+    "en": "grades",
+    "ru": "оценки"
+  },
+  {
+    "kanji": "授業",
+    "kana": "じゅぎょう",
+    "romaji": "jugyou",
+    "meaning": "class (lesson)",
+    "en": "class (lesson)",
+    "ru": "урок"
+  },
+  {
+    "kanji": "会社",
+    "kana": "かいしゃ",
+    "romaji": "kaisha",
+    "meaning": "company",
+    "en": "company",
+    "ru": "компания"
+  },
+  {
+    "kanji": "社員",
+    "kana": "しゃいん",
+    "romaji": "shain",
+    "meaning": "company employee",
+    "en": "company employee",
+    "ru": "служащий компании"
+  },
+  {
+    "kanji": "仕事",
+    "kana": "しごと",
+    "romaji": "shigoto",
+    "meaning": "work; job",
+    "en": "work; job",
+    "ru": "работа"
+  },
+  {
+    "kanji": "会議",
+    "kana": "かいぎ",
+    "romaji": "kaigi",
+    "meaning": "meeting",
+    "en": "meeting",
+    "ru": "совещание"
+  },
+  {
+    "kanji": "資料",
+    "kana": "しりょう",
+    "romaji": "shiryou",
+    "meaning": "materials; documents",
+    "en": "documents",
+    "ru": "материалы; документы"
+  },
+  {
+    "kanji": "上司",
+    "kana": "じょうし",
+    "romaji": "joushi",
+    "meaning": "boss",
+    "en": "boss",
+    "ru": "начальник"
+  },
+  {
+    "kanji": "同僚",
+    "kana": "どうりょう",
+    "romaji": "douryou",
+    "meaning": "colleague",
+    "en": "colleague",
+    "ru": "коллега"
+  },
+  {
+    "kanji": "部長",
+    "kana": "ぶちょう",
+    "romaji": "buchou",
+    "meaning": "department manager",
+    "en": "department manager",
+    "ru": "начальник отдела"
+  },
+  {
+    "kanji": "休憩",
+    "kana": "きゅうけい",
+    "romaji": "kyuukei",
+    "meaning": "break; rest",
+    "en": "break",
+    "ru": "перерыв"
+  },
+  {
+    "kanji": "家族",
+    "kana": "かぞく",
+    "romaji": "kazoku",
+    "meaning": "family",
+    "en": "family",
+    "ru": "семья"
+  },
+  {
+    "kanji": "母",
+    "kana": "はは",
+    "romaji": "haha",
+    "meaning": "mother (mine)",
+    "en": "mother",
+    "ru": "мать (моя)"
+  },
+  {
+    "kanji": "お母さん",
+    "kana": "おかあさん",
+    "romaji": "okaasan",
+    "meaning": "mother (others)",
+    "en": "mother",
+    "ru": "мама (чья-то)"
+  },
+  {
+    "kanji": "父",
+    "kana": "ちち",
+    "romaji": "chichi",
+    "meaning": "father (mine)",
+    "en": "father",
+    "ru": "отец (мой)"
+  },
+  {
+    "kanji": "お父さん",
+    "kana": "おとうさん",
+    "romaji": "otousan",
+    "meaning": "father (others)",
+    "en": "father",
+    "ru": "папа (чья-то)"
+  },
+  {
+    "kanji": "兄",
+    "kana": "あに",
+    "romaji": "ani",
+    "meaning": "older brother (mine)",
+    "en": "older brother",
+    "ru": "старший брат (мой)"
+  },
+  {
+    "kanji": "お兄さん",
+    "kana": "おにいさん",
+    "romaji": "oniisan",
+    "meaning": "older brother (others)",
+    "en": "older brother",
+    "ru": "старший брат (чужой)"
+  },
+  {
+    "kanji": "姉",
+    "kana": "あね",
+    "romaji": "ane",
+    "meaning": "older sister (mine)",
+    "en": "older sister",
+    "ru": "старшая сестра (моя)"
+  },
+  {
+    "kanji": "お姉さん",
+    "kana": "おねえさん",
+    "romaji": "oneesan",
+    "meaning": "older sister (others)",
+    "en": "older sister",
+    "ru": "старшая сестра (чужая)"
+  },
+  {
+    "kanji": "弟",
+    "kana": "おとうと",
+    "romaji": "otouto",
+    "meaning": "younger brother",
+    "en": "younger brother",
+    "ru": "младший брат"
+  },
+  {
+    "kanji": "妹",
+    "kana": "いもうと",
+    "romaji": "imouto",
+    "meaning": "younger sister",
+    "en": "younger sister",
+    "ru": "младшая сестра"
+  },
+  {
+    "kanji": "子供",
+    "kana": "こども",
+    "romaji": "kodomo",
+    "meaning": "child",
+    "en": "child",
+    "ru": "ребёнок"
+  },
+  {
+    "kanji": "息子",
+    "kana": "むすこ",
+    "romaji": "musuko",
+    "meaning": "son",
+    "en": "son",
+    "ru": "сын"
+  },
+  {
+    "kanji": "娘",
+    "kana": "むすめ",
+    "romaji": "musume",
+    "meaning": "daughter",
+    "en": "daughter",
+    "ru": "дочь"
+  },
+  {
+    "kanji": "夫",
+    "kana": "おっと",
+    "romaji": "otto",
+    "meaning": "husband (mine)",
+    "en": "husband",
+    "ru": "муж (мой)"
+  },
+  {
+    "kanji": "主人",
+    "kana": "しゅじん",
+    "romaji": "shujin",
+    "meaning": "my husband",
+    "en": "my husband",
+    "ru": "мой муж"
+  },
+  {
+    "kanji": "妻",
+    "kana": "つま",
+    "romaji": "tsuma",
+    "meaning": "wife (mine)",
+    "en": "wife",
+    "ru": "жена (моя)"
+  },
+  {
+    "kanji": "家内",
+    "kana": "かない",
+    "romaji": "kanai",
+    "meaning": "my wife",
+    "en": "my wife",
+    "ru": "моя жена"
+  },
+  {
+    "kanji": "今日",
+    "kana": "きょう",
+    "romaji": "kyou",
+    "meaning": "today",
+    "en": "today",
+    "ru": "сегодня"
+  },
+  {
+    "kanji": "昨日",
+    "kana": "きのう",
+    "romaji": "kinou",
+    "meaning": "yesterday",
+    "en": "yesterday",
+    "ru": "вчера"
+  },
+  {
+    "kanji": "明日",
+    "kana": "あした",
+    "romaji": "ashita",
+    "meaning": "tomorrow",
+    "en": "tomorrow",
+    "ru": "завтра"
+  },
+  {
+    "kanji": "今",
+    "kana": "いま",
+    "romaji": "ima",
+    "meaning": "now",
+    "en": "now",
+    "ru": "сейчас"
+  },
+  {
+    "kanji": "毎日",
+    "kana": "まいにち",
+    "romaji": "mainichi",
+    "meaning": "every day",
+    "en": "every day",
+    "ru": "каждый день"
+  },
+  {
+    "kanji": "毎週",
+    "kana": "まいしゅう",
+    "romaji": "maishuu",
+    "meaning": "every week",
+    "en": "every week",
+    "ru": "каждую неделю"
+  },
+  {
+    "kanji": "毎月",
+    "kana": "まいつき",
+    "romaji": "maitsuki",
+    "meaning": "every month",
+    "en": "every month",
+    "ru": "каждый месяц"
+  },
+  {
+    "kanji": "毎年",
+    "kana": "まいとし",
+    "romaji": "maitoshi",
+    "meaning": "every year",
+    "en": "every year",
+    "ru": "каждый год"
+  },
+  {
+    "kanji": "朝",
+    "kana": "あさ",
+    "romaji": "asa",
+    "meaning": "morning",
+    "en": "morning",
+    "ru": "утро"
+  },
+  {
+    "kanji": "昼",
+    "kana": "ひる",
+    "romaji": "hiru",
+    "meaning": "noon; daytime",
+    "en": "noon; daytime",
+    "ru": "день"
+  },
+  {
+    "kanji": "夜",
+    "kana": "よる",
+    "romaji": "yoru",
+    "meaning": "night",
+    "en": "night",
+    "ru": "ночь"
+  },
+  {
+    "kanji": "夕方",
+    "kana": "ゆうがた",
+    "romaji": "yuugata",
+    "meaning": "evening",
+    "en": "evening",
+    "ru": "вечер"
+  },
+  {
+    "kanji": "朝ご飯",
+    "kana": "あさごはん",
+    "romaji": "asagohan",
+    "meaning": "breakfast",
+    "en": "breakfast",
+    "ru": "завтрак"
+  },
+  {
+    "kanji": "昼ご飯",
+    "kana": "ひるごはん",
+    "romaji": "hirugohan",
+    "meaning": "lunch",
+    "en": "lunch",
+    "ru": "обед"
+  },
+  {
+    "kanji": "晩ご飯",
+    "kana": "ばんごはん",
+    "romaji": "bangohan",
+    "meaning": "dinner",
+    "en": "dinner",
+    "ru": "ужин"
+  },
+  {
+    "kanji": "時間",
+    "kana": "じかん",
+    "romaji": "jikan",
+    "meaning": "time; hour",
+    "en": "time; hour",
+    "ru": "время; час"
+  },
+  {
+    "kanji": "分",
+    "kana": "ふん",
+    "romaji": "fun",
+    "meaning": "minute",
+    "en": "minute",
+    "ru": "минута"
+  },
+  {
+    "kanji": "秒",
+    "kana": "びょう",
+    "romaji": "byou",
+    "meaning": "second",
+    "en": "second",
+    "ru": "секунда"
+  },
+  {
+    "kanji": "午前",
+    "kana": "ごぜん",
+    "romaji": "gozen",
+    "meaning": "a.m.",
+    "en": "a.m.",
+    "ru": "до полудня"
+  },
+  {
+    "kanji": "午後",
+    "kana": "ごご",
+    "romaji": "gogo",
+    "meaning": "p.m.",
+    "en": "p.m.",
+    "ru": "после полудня"
+  },
+  {
+    "kanji": "今朝",
+    "kana": "けさ",
+    "romaji": "kesa",
+    "meaning": "this morning",
+    "en": "this morning",
+    "ru": "сегодня утром"
+  },
+  {
+    "kanji": "今夜",
+    "kana": "こんや",
+    "romaji": "konya",
+    "meaning": "tonight",
+    "en": "tonight",
+    "ru": "сегодня вечером"
+  },
+  {
+    "kanji": "月曜日",
+    "kana": "げつようび",
+    "romaji": "getsuyoubi",
+    "meaning": "Monday",
+    "en": "Monday",
+    "ru": "понедельник"
+  },
+  {
+    "kanji": "火曜日",
+    "kana": "かようび",
+    "romaji": "kayoubi",
+    "meaning": "Tuesday",
+    "en": "Tuesday",
+    "ru": "вторник"
+  },
+  {
+    "kanji": "水曜日",
+    "kana": "すいようび",
+    "romaji": "suiyoubi",
+    "meaning": "Wednesday",
+    "en": "Wednesday",
+    "ru": "среда"
+  },
+  {
+    "kanji": "木曜日",
+    "kana": "もくようび",
+    "romaji": "mokuyoubi",
+    "meaning": "Thursday",
+    "en": "Thursday",
+    "ru": "четверг"
+  },
+  {
+    "kanji": "金曜日",
+    "kana": "きんようび",
+    "romaji": "kinyoubi",
+    "meaning": "Friday",
+    "en": "Friday",
+    "ru": "пятница"
+  },
+  {
+    "kanji": "土曜日",
+    "kana": "どようび",
+    "romaji": "doyoubi",
+    "meaning": "Saturday",
+    "en": "Saturday",
+    "ru": "суббота"
+  },
+  {
+    "kanji": "日曜日",
+    "kana": "にちようび",
+    "romaji": "nichiyoubi",
+    "meaning": "Sunday",
+    "en": "Sunday",
+    "ru": "воскресенье"
+  },
+  {
+    "kanji": "一月",
+    "kana": "いちがつ",
+    "romaji": "ichigatsu",
+    "meaning": "January",
+    "en": "January",
+    "ru": "январь"
+  },
+  {
+    "kanji": "二月",
+    "kana": "にがつ",
+    "romaji": "nigatsu",
+    "meaning": "February",
+    "en": "February",
+    "ru": "февраль"
+  },
+  {
+    "kanji": "三月",
+    "kana": "さんがつ",
+    "romaji": "sangatsu",
+    "meaning": "March",
+    "en": "March",
+    "ru": "март"
+  },
+  {
+    "kanji": "四月",
+    "kana": "しがつ",
+    "romaji": "shigatsu",
+    "meaning": "April",
+    "en": "April",
+    "ru": "апрель"
+  },
+  {
+    "kanji": "五月",
+    "kana": "ごがつ",
+    "romaji": "gogatsu",
+    "meaning": "May",
+    "en": "May",
+    "ru": "май"
+  },
+  {
+    "kanji": "六月",
+    "kana": "ろくがつ",
+    "romaji": "rokugatsu",
+    "meaning": "June",
+    "en": "June",
+    "ru": "июнь"
+  },
+  {
+    "kanji": "七月",
+    "kana": "しちがつ",
+    "romaji": "shichigatsu",
+    "meaning": "July",
+    "en": "July",
+    "ru": "июль"
+  },
+  {
+    "kanji": "八月",
+    "kana": "はちがつ",
+    "romaji": "hachigatsu",
+    "meaning": "August",
+    "en": "August",
+    "ru": "август"
+  },
+  {
+    "kanji": "九月",
+    "kana": "くがつ",
+    "romaji": "kugatsu",
+    "meaning": "September",
+    "en": "September",
+    "ru": "сентябрь"
+  },
+  {
+    "kanji": "十月",
+    "kana": "じゅうがつ",
+    "romaji": "juugatsu",
+    "meaning": "October",
+    "en": "October",
+    "ru": "октябрь"
+  },
+  {
+    "kanji": "十一月",
+    "kana": "じゅういちがつ",
+    "romaji": "juuichigatsu",
+    "meaning": "November",
+    "en": "November",
+    "ru": "ноябрь"
+  },
+  {
+    "kanji": "十二月",
+    "kana": "じゅうにがつ",
+    "romaji": "juunigatsu",
+    "meaning": "December",
+    "en": "December",
+    "ru": "декабрь"
+  },
+  {
+    "kanji": "色",
+    "kana": "いろ",
+    "romaji": "iro",
+    "meaning": "color",
+    "en": "color",
+    "ru": "цвет"
+  },
+  {
+    "kanji": "赤",
+    "kana": "あか",
+    "romaji": "aka",
+    "meaning": "red",
+    "en": "red",
+    "ru": "красный"
+  },
+  {
+    "kanji": "青",
+    "kana": "あお",
+    "romaji": "ao",
+    "meaning": "blue",
+    "en": "blue",
+    "ru": "синий; голубой"
+  },
+  {
+    "kanji": "黄色",
+    "kana": "きいろ",
+    "romaji": "kiiro",
+    "meaning": "yellow",
+    "en": "yellow",
+    "ru": "жёлтый"
+  },
+  {
+    "kanji": "白",
+    "kana": "しろ",
+    "romaji": "shiro",
+    "meaning": "white",
+    "en": "white",
+    "ru": "белый"
+  },
+  {
+    "kanji": "黒",
+    "kana": "くろ",
+    "romaji": "kuro",
+    "meaning": "black",
+    "en": "black",
+    "ru": "чёрный"
+  },
+  {
+    "kanji": "緑",
+    "kana": "みどり",
+    "romaji": "midori",
+    "meaning": "green",
+    "en": "green",
+    "ru": "зелёный"
+  },
+  {
+    "kanji": "茶色",
+    "kana": "ちゃいろ",
+    "romaji": "chairo",
+    "meaning": "brown",
+    "en": "brown",
+    "ru": "коричневый"
+  },
+  {
+    "kanji": "紫",
+    "kana": "むらさき",
+    "romaji": "murasaki",
+    "meaning": "purple",
+    "en": "purple",
+    "ru": "фиолетовый"
+  },
+  {
+    "kanji": "ピンク",
+    "kana": "ピンク",
+    "romaji": "pinku",
+    "meaning": "pink",
+    "en": "pink",
+    "ru": "розовый"
+  },
+  {
+    "kanji": "オレンジ",
+    "kana": "オレンジ",
+    "romaji": "orenji",
+    "meaning": "orange (color)",
+    "en": "orange",
+    "ru": "оранжевый"
+  },
+  {
+    "kanji": "灰色",
+    "kana": "はいいろ",
+    "romaji": "haiiro",
+    "meaning": "gray",
+    "en": "gray",
+    "ru": "серый"
+  },
+  {
+    "kanji": "天気",
+    "kana": "てんき",
+    "romaji": "tenki",
+    "meaning": "weather",
+    "en": "weather",
+    "ru": "погода"
+  },
+  {
+    "kanji": "晴れ",
+    "kana": "はれ",
+    "romaji": "hare",
+    "meaning": "clear weather",
+    "en": "clear",
+    "ru": "ясно"
+  },
+  {
+    "kanji": "曇り",
+    "kana": "くもり",
+    "romaji": "kumori",
+    "meaning": "cloudy",
+    "en": "cloudy",
+    "ru": "облачно"
+  },
+  {
+    "kanji": "雪",
+    "kana": "ゆき",
+    "romaji": "yuki",
+    "meaning": "snow",
+    "en": "snow",
+    "ru": "снег"
+  },
+  {
+    "kanji": "風",
+    "kana": "かぜ",
+    "romaji": "kaze",
+    "meaning": "wind",
+    "en": "wind",
+    "ru": "ветер"
+  },
+  {
+    "kanji": "台風",
+    "kana": "たいふう",
+    "romaji": "taifuu",
+    "meaning": "typhoon",
+    "en": "typhoon",
+    "ru": "тайфун"
+  },
+  {
+    "kanji": "気温",
+    "kana": "きおん",
+    "romaji": "kion",
+    "meaning": "temperature (air)",
+    "en": "temperature",
+    "ru": "температура воздуха"
+  },
+  {
+    "kanji": "車",
+    "kana": "くるま",
+    "romaji": "kuruma",
+    "meaning": "car",
+    "en": "car",
+    "ru": "машина"
+  },
+  {
+    "kanji": "自転車",
+    "kana": "じてんしゃ",
+    "romaji": "jitensha",
+    "meaning": "bicycle",
+    "en": "bicycle",
+    "ru": "велосипед"
+  },
+  {
+    "kanji": "バス",
+    "kana": "バス",
+    "romaji": "basu",
+    "meaning": "bus",
+    "en": "bus",
+    "ru": "автобус"
+  },
+  {
+    "kanji": "電車",
+    "kana": "でんしゃ",
+    "romaji": "densha",
+    "meaning": "train",
+    "en": "train",
+    "ru": "поезд"
+  },
+  {
+    "kanji": "地下鉄",
+    "kana": "ちかてつ",
+    "romaji": "chikatetsu",
+    "meaning": "subway",
+    "en": "subway",
+    "ru": "метро"
+  },
+  {
+    "kanji": "飛行機",
+    "kana": "ひこうき",
+    "romaji": "hikouki",
+    "meaning": "airplane",
+    "en": "airplane",
+    "ru": "самолёт"
+  },
+  {
+    "kanji": "船",
+    "kana": "ふね",
+    "romaji": "fune",
+    "meaning": "boat; ship",
+    "en": "boat; ship",
+    "ru": "корабль, лодка"
+  },
+  {
+    "kanji": "駅",
+    "kana": "えき",
+    "romaji": "eki",
+    "meaning": "station",
+    "en": "station",
+    "ru": "станция"
+  },
+  {
+    "kanji": "空港",
+    "kana": "くうこう",
+    "romaji": "kuukou",
+    "meaning": "airport",
+    "en": "airport",
+    "ru": "аэропорт"
+  },
+  {
+    "kanji": "道",
+    "kana": "みち",
+    "romaji": "michi",
+    "meaning": "road; way",
+    "en": "road; way",
+    "ru": "дорога"
+  },
+  {
+    "kanji": "信号",
+    "kana": "しんごう",
+    "romaji": "shingou",
+    "meaning": "traffic light",
+    "en": "traffic light",
+    "ru": "светофор"
+  },
+  {
+    "kanji": "交差点",
+    "kana": "こうさてん",
+    "romaji": "kousaten",
+    "meaning": "intersection",
+    "en": "intersection",
+    "ru": "перекрёсток"
+  },
+  {
+    "kanji": "店",
+    "kana": "みせ",
+    "romaji": "mise",
+    "meaning": "shop",
+    "en": "shop",
+    "ru": "магазин"
+  },
+  {
+    "kanji": "スーパー",
+    "kana": "スーパー",
+    "romaji": "suupaa",
+    "meaning": "supermarket",
+    "en": "supermarket",
+    "ru": "супермаркет"
+  },
+  {
+    "kanji": "デパート",
+    "kana": "デパート",
+    "romaji": "depaato",
+    "meaning": "department store",
+    "en": "department store",
+    "ru": "универмаг"
+  },
+  {
+    "kanji": "喫茶店",
+    "kana": "きっさてん",
+    "romaji": "kissaten",
+    "meaning": "coffee shop",
+    "en": "coffee shop",
+    "ru": "кафе"
+  },
+  {
+    "kanji": "レストラン",
+    "kana": "レストラン",
+    "romaji": "resutoran",
+    "meaning": "restaurant",
+    "en": "restaurant",
+    "ru": "ресторан"
+  },
+  {
+    "kanji": "銀行",
+    "kana": "ぎんこう",
+    "romaji": "ginkou",
+    "meaning": "bank",
+    "en": "bank",
+    "ru": "банк"
+  },
+  {
+    "kanji": "郵便局",
+    "kana": "ゆうびんきょく",
+    "romaji": "yuubinkyoku",
+    "meaning": "post office",
+    "en": "post office",
+    "ru": "почта"
+  },
+  {
+    "kanji": "病院",
+    "kana": "びょういん",
+    "romaji": "byouin",
+    "meaning": "hospital",
+    "en": "hospital",
+    "ru": "больница"
+  },
+  {
+    "kanji": "薬局",
+    "kana": "やっきょく",
+    "romaji": "yakkyoku",
+    "meaning": "pharmacy",
+    "en": "pharmacy",
+    "ru": "аптека"
+  },
+  {
+    "kanji": "市役所",
+    "kana": "しやくしょ",
+    "romaji": "shiyakusho",
+    "meaning": "city hall",
+    "en": "city hall",
+    "ru": "мэрия"
+  },
+  {
+    "kanji": "警察署",
+    "kana": "けいさつしょ",
+    "romaji": "keisatsusho",
+    "meaning": "police station",
+    "en": "police station",
+    "ru": "полицейский участок"
+  },
+  {
+    "kanji": "消防署",
+    "kana": "しょうぼうしょ",
+    "romaji": "shoubousho",
+    "meaning": "fire station",
+    "en": "fire station",
+    "ru": "пожарная часть"
+  },
+  {
+    "kanji": "公園",
+    "kana": "こうえん",
+    "romaji": "kouen",
+    "meaning": "park",
+    "en": "park",
+    "ru": "парк"
+  },
+  {
+    "kanji": "入口",
+    "kana": "いりぐち",
+    "romaji": "iriguchi",
+    "meaning": "entrance",
+    "en": "entrance",
+    "ru": "вход"
+  },
+  {
+    "kanji": "出口",
+    "kana": "でぐち",
+    "romaji": "deguchi",
+    "meaning": "exit",
+    "en": "exit",
+    "ru": "выход"
+  },
+  {
+    "kanji": "左",
+    "kana": "ひだり",
+    "romaji": "hidari",
+    "meaning": "left",
+    "en": "left",
+    "ru": "лево"
+  },
+  {
+    "kanji": "右",
+    "kana": "みぎ",
+    "romaji": "migi",
+    "meaning": "right",
+    "en": "right",
+    "ru": "право"
+  },
+  {
+    "kanji": "前",
+    "kana": "まえ",
+    "romaji": "mae",
+    "meaning": "front; before",
+    "en": "front; before",
+    "ru": "перед; раньше"
+  },
+  {
+    "kanji": "後ろ",
+    "kana": "うしろ",
+    "romaji": "ushiro",
+    "meaning": "back; behind",
+    "en": "back; behind",
+    "ru": "сзади"
+  },
+  {
+    "kanji": "上",
+    "kana": "うえ",
+    "romaji": "ue",
+    "meaning": "up; above",
+    "en": "up; above",
+    "ru": "верх; над"
+  },
+  {
+    "kanji": "下",
+    "kana": "した",
+    "romaji": "shita",
+    "meaning": "down; below",
+    "en": "down; below",
+    "ru": "низ; под"
+  },
+  {
+    "kanji": "中",
+    "kana": "なか",
+    "romaji": "naka",
+    "meaning": "inside; middle",
+    "en": "inside; middle",
+    "ru": "внутри; середина"
+  },
+  {
+    "kanji": "外",
+    "kana": "そと",
+    "romaji": "soto",
+    "meaning": "outside",
+    "en": "outside",
+    "ru": "снаружи"
+  },
+  {
+    "kanji": "何",
+    "kana": "なに",
+    "romaji": "nani",
+    "meaning": "what",
+    "en": "what",
+    "ru": "что"
+  },
+  {
+    "kanji": "誰",
+    "kana": "だれ",
+    "romaji": "dare",
+    "meaning": "who",
+    "en": "who",
+    "ru": "кто"
+  },
+  {
+    "kanji": "どこ",
+    "kana": "どこ",
+    "romaji": "doko",
+    "meaning": "where",
+    "en": "where",
+    "ru": "где"
+  },
+  {
+    "kanji": "いつ",
+    "kana": "いつ",
+    "romaji": "itsu",
+    "meaning": "when",
+    "en": "when",
+    "ru": "когда"
+  },
+  {
+    "kanji": "どうして",
+    "kana": "どうして",
+    "romaji": "doushite",
+    "meaning": "why",
+    "en": "why",
+    "ru": "почему"
+  },
+  {
+    "kanji": "どうやって",
+    "kana": "どうやって",
+    "romaji": "douyatte",
+    "meaning": "how",
+    "en": "how",
+    "ru": "как"
+  },
+  {
+    "kanji": "いくら",
+    "kana": "いくら",
+    "romaji": "ikura",
+    "meaning": "how much",
+    "en": "how much",
+    "ru": "сколько (о цене)"
+  },
+  {
+    "kanji": "いくつ",
+    "kana": "いくつ",
+    "romaji": "ikutsu",
+    "meaning": "how many; how old",
+    "en": "how many; how old",
+    "ru": "сколько; сколько лет"
+  },
+  {
+    "kanji": "これ",
+    "kana": "これ",
+    "romaji": "kore",
+    "meaning": "this (near speaker)",
+    "en": "this",
+    "ru": "это"
+  },
+  {
+    "kanji": "それ",
+    "kana": "それ",
+    "romaji": "sore",
+    "meaning": "that (near listener)",
+    "en": "that",
+    "ru": "то"
+  },
+  {
+    "kanji": "あれ",
+    "kana": "あれ",
+    "romaji": "are",
+    "meaning": "that (over there)",
+    "en": "that (over there)",
+    "ru": "вон то"
+  },
+  {
+    "kanji": "ここ",
+    "kana": "ここ",
+    "romaji": "koko",
+    "meaning": "here",
+    "en": "here",
+    "ru": "здесь"
+  },
+  {
+    "kanji": "そこ",
+    "kana": "そこ",
+    "romaji": "soko",
+    "meaning": "there (near listener)",
+    "en": "there",
+    "ru": "там (рядом с собеседником)"
+  },
+  {
+    "kanji": "あそこ",
+    "kana": "あそこ",
+    "romaji": "asoko",
+    "meaning": "over there",
+    "en": "over there",
+    "ru": "вон там"
+  },
+  {
+    "kanji": "ください",
+    "kana": "ください",
+    "romaji": "kudasai",
+    "meaning": "please (give me)",
+    "en": "please",
+    "ru": "пожалуйста (дайте)"
+  },
+  {
+    "kanji": "ありがとうございます",
+    "kana": "ありがとうございます",
+    "romaji": "arigatou gozaimasu",
+    "meaning": "thank you",
+    "en": "thank you",
+    "ru": "спасибо"
+  },
+  {
+    "kanji": "すみません",
+    "kana": "すみません",
+    "romaji": "sumimasen",
+    "meaning": "excuse me; sorry",
+    "en": "excuse me; sorry",
+    "ru": "извините"
+  },
+  {
+    "kanji": "ごめんなさい",
+    "kana": "ごめんなさい",
+    "romaji": "gomen nasai",
+    "meaning": "I'm sorry",
+    "en": "I'm sorry",
+    "ru": "простите"
+  },
+  {
+    "kanji": "お願いします",
+    "kana": "おねがいします",
+    "romaji": "onegaishimasu",
+    "meaning": "please",
+    "en": "please",
+    "ru": "пожалуйста"
+  },
+  {
+    "kanji": "はじめまして",
+    "kana": "はじめまして",
+    "romaji": "hajimemashite",
+    "meaning": "nice to meet you",
+    "en": "nice to meet you",
+    "ru": "приятно познакомиться"
+  },
+  {
+    "kanji": "家",
+    "kana": "いえ",
+    "romaji": "ie",
+    "meaning": "house",
+    "en": "house",
+    "ru": "дом"
+  },
+  {
+    "kanji": "部屋",
+    "kana": "へや",
+    "romaji": "heya",
+    "meaning": "room",
+    "en": "room",
+    "ru": "комната"
+  },
+  {
+    "kanji": "庭",
+    "kana": "にわ",
+    "romaji": "niwa",
+    "meaning": "garden",
+    "en": "garden",
+    "ru": "сад"
+  },
+  {
+    "kanji": "壁",
+    "kana": "かべ",
+    "romaji": "kabe",
+    "meaning": "wall",
+    "en": "wall",
+    "ru": "стена"
+  },
+  {
+    "kanji": "天井",
+    "kana": "てんじょう",
+    "romaji": "tenjou",
+    "meaning": "ceiling",
+    "en": "ceiling",
+    "ru": "потолок"
+  },
+  {
+    "kanji": "床",
+    "kana": "ゆか",
+    "romaji": "yuka",
+    "meaning": "floor",
+    "en": "floor",
+    "ru": "пол"
+  },
+  {
+    "kanji": "冷蔵庫",
+    "kana": "れいぞうこ",
+    "romaji": "reizouko",
+    "meaning": "refrigerator",
+    "en": "refrigerator",
+    "ru": "холодильник"
+  },
+  {
+    "kanji": "電子レンジ",
+    "kana": "でんしレンジ",
+    "romaji": "denshi renji",
+    "meaning": "microwave oven",
+    "en": "microwave oven",
+    "ru": "микроволновка"
+  },
+  {
+    "kanji": "洗濯機",
+    "kana": "せんたくき",
+    "romaji": "sentakuki",
+    "meaning": "washing machine",
+    "en": "washing machine",
+    "ru": "стиральная машина"
+  },
+  {
+    "kanji": "掃除機",
+    "kana": "そうじき",
+    "romaji": "soujiki",
+    "meaning": "vacuum cleaner",
+    "en": "vacuum cleaner",
+    "ru": "пылесос"
+  },
+  {
+    "kanji": "本屋",
+    "kana": "ほんや",
+    "romaji": "honya",
+    "meaning": "bookstore",
+    "en": "bookstore",
+    "ru": "книжный магазин"
+  },
+  {
+    "kanji": "花屋",
+    "kana": "はなや",
+    "romaji": "hanaya",
+    "meaning": "flower shop",
+    "en": "florist",
+    "ru": "цветочный магазин"
+  },
+  {
+    "kanji": "肉屋",
+    "kana": "にくや",
+    "romaji": "nikuya",
+    "meaning": "butcher",
+    "en": "butcher",
+    "ru": "мясная лавка"
+  },
+  {
+    "kanji": "八百屋",
+    "kana": "やおや",
+    "romaji": "yaoya",
+    "meaning": "greengrocer",
+    "en": "greengrocer",
+    "ru": "овощная лавка"
+  },
+  {
+    "kanji": "魚屋",
+    "kana": "さかなや",
+    "romaji": "sakanaya",
+    "meaning": "fishmonger",
+    "en": "fish shop",
+    "ru": "рыбная лавка"
+  },
+  {
+    "kanji": "起こる",
+    "kana": "おこる",
+    "romaji": "okoru",
+    "meaning": "to occur; to happen",
+    "en": "to happen",
+    "ru": "случаться"
+  },
+  {
+    "kanji": "始まる",
+    "kana": "はじまる",
+    "romaji": "hajimaru",
+    "meaning": "to begin (intransitive)",
+    "en": "to begin",
+    "ru": "начинаться"
+  },
+  {
+    "kanji": "始める",
+    "kana": "はじめる",
+    "romaji": "hajimeru",
+    "meaning": "to start (something)",
+    "en": "to start (something)",
+    "ru": "начинать"
+  },
+  {
+    "kanji": "終わる",
+    "kana": "おわる",
+    "romaji": "owaru",
+    "meaning": "to end (intransitive)",
+    "en": "to end",
+    "ru": "заканчиваться"
+  },
+  {
+    "kanji": "終える",
+    "kana": "おえる",
+    "romaji": "oeru",
+    "meaning": "to finish (something)",
+    "en": "to finish",
+    "ru": "заканчивать"
+  },
+  {
+    "kanji": "覚える",
+    "kana": "おぼえる",
+    "romaji": "oboeru",
+    "meaning": "to memorize",
+    "en": "to memorize",
+    "ru": "запоминать"
+  },
+  {
+    "kanji": "忘れる",
+    "kana": "わすれる",
+    "romaji": "wasureru",
+    "meaning": "to forget",
+    "en": "to forget",
+    "ru": "забывать"
+  },
+  {
+    "kanji": "思う",
+    "kana": "おもう",
+    "romaji": "omou",
+    "meaning": "to think",
+    "en": "to think",
+    "ru": "думать"
+  },
+  {
+    "kanji": "知る",
+    "kana": "しる",
+    "romaji": "shiru",
+    "meaning": "to know",
+    "en": "to know",
+    "ru": "знать"
+  },
+  {
+    "kanji": "分かる",
+    "kana": "わかる",
+    "romaji": "wakaru",
+    "meaning": "to understand",
+    "en": "to understand",
+    "ru": "понимать"
+  },
+  {
+    "kanji": "信じる",
+    "kana": "しんじる",
+    "romaji": "shinjiru",
+    "meaning": "to believe",
+    "en": "to believe",
+    "ru": "верить"
+  },
+  {
+    "kanji": "探す",
+    "kana": "さがす",
+    "romaji": "sagasu",
+    "meaning": "to search",
+    "en": "to search",
+    "ru": "искать"
+  },
+  {
+    "kanji": "見つける",
+    "kana": "みつける",
+    "romaji": "mitsukeru",
+    "meaning": "to find",
+    "en": "to find",
+    "ru": "находить"
+  },
+  {
+    "kanji": "買う",
+    "kana": "かう",
+    "romaji": "kau",
+    "meaning": "to buy",
+    "en": "to buy",
+    "ru": "покупать"
+  },
+  {
+    "kanji": "払う",
+    "kana": "はらう",
+    "romaji": "harau",
+    "meaning": "to pay",
+    "en": "to pay",
+    "ru": "платить"
+  },
+  {
+    "kanji": "値段",
+    "kana": "ねだん",
+    "romaji": "nedan",
+    "meaning": "price",
+    "en": "price",
+    "ru": "цена"
+  },
+  {
+    "kanji": "高い",
+    "kana": "たかい",
+    "romaji": "takai",
+    "meaning": "expensive",
+    "en": "expensive",
+    "ru": "дорогой"
+  },
+  {
+    "kanji": "安い",
+    "kana": "やすい",
+    "romaji": "yasui",
+    "meaning": "cheap",
+    "en": "cheap",
+    "ru": "дешёвый"
+  },
+  {
+    "kanji": "割引",
+    "kana": "わりびき",
+    "romaji": "waribiki",
+    "meaning": "discount",
+    "en": "discount",
+    "ru": "скидка"
+  },
+  {
+    "kanji": "セール",
+    "kana": "セール",
+    "romaji": "seeru",
+    "meaning": "sale",
+    "en": "sale",
+    "ru": "распродажа"
+  },
+  {
+    "kanji": "春",
+    "kana": "はる",
+    "romaji": "haru",
+    "meaning": "spring",
+    "en": "spring",
+    "ru": "весна"
+  },
+  {
+    "kanji": "夏",
+    "kana": "なつ",
+    "romaji": "natsu",
+    "meaning": "summer",
+    "en": "summer",
+    "ru": "лето"
+  },
+  {
+    "kanji": "秋",
+    "kana": "あき",
+    "romaji": "aki",
+    "meaning": "autumn",
+    "en": "autumn",
+    "ru": "осень"
+  },
+  {
+    "kanji": "冬",
+    "kana": "ふゆ",
+    "romaji": "fuyu",
+    "meaning": "winter",
+    "en": "winter",
+    "ru": "зима"
+  },
+  {
+    "kanji": "学校",
+    "kana": "がっこう",
+    "romaji": "gakkou",
+    "meaning": "school",
+    "en": "school",
+    "ru": "школа"
+  },
+  {
+    "kanji": "教科書",
+    "kana": "きょうかしょ",
+    "romaji": "kyoukasho",
+    "meaning": "textbook",
+    "en": "textbook",
+    "ru": "учебник"
+  },
+  {
+    "kanji": "ノート",
+    "kana": "ノート",
+    "romaji": "nooto",
+    "meaning": "notebook",
+    "en": "notebook",
+    "ru": "тетрадь"
+  },
+  {
+    "kanji": "鉛筆",
+    "kana": "えんぴつ",
+    "romaji": "enpitsu",
+    "meaning": "pencil",
+    "en": "pencil",
+    "ru": "карандаш"
+  },
+  {
+    "kanji": "ペン",
+    "kana": "ペン",
+    "romaji": "pen",
+    "meaning": "pen",
+    "en": "pen",
+    "ru": "ручка"
+  },
+  {
+    "kanji": "消しゴム",
+    "kana": "けしゴム",
+    "romaji": "keshigomu",
+    "meaning": "eraser",
+    "en": "eraser",
+    "ru": "ластик"
+  },
+  {
+    "kanji": "定規",
+    "kana": "じょうぎ",
+    "romaji": "jougi",
+    "meaning": "ruler",
+    "en": "ruler",
+    "ru": "линейка"
+  },
+  {
+    "kanji": "机",
+    "kana": "つくえ",
+    "romaji": "tsukue",
+    "meaning": "desk",
+    "en": "desk",
+    "ru": "письменный стол"
+  },
+  {
+    "kanji": "椅子",
+    "kana": "いす",
+    "romaji": "isu",
+    "meaning": "chair",
+    "en": "chair",
+    "ru": "стул"
+  },
+  {
+    "kanji": "雨",
+    "kana": "あめ",
+    "romaji": "ame",
+    "meaning": "rain",
+    "en": "rain",
+    "ru": "дождь"
+  },
+  {
+    "kanji": "雪",
+    "kana": "ゆき",
+    "romaji": "yuki",
+    "meaning": "snow",
+    "en": "snow",
+    "ru": "снег"
+  },
+  {
+    "kanji": "雲",
+    "kana": "くも",
+    "romaji": "kumo",
+    "meaning": "cloud",
+    "en": "cloud",
+    "ru": "облако"
+  },
+  {
+    "kanji": "空",
+    "kana": "そら",
+    "romaji": "sora",
+    "meaning": "sky",
+    "en": "sky",
+    "ru": "небо"
+  },
+  {
+    "kanji": "太陽",
+    "kana": "たいよう",
+    "romaji": "taiyou",
+    "meaning": "sun",
+    "en": "sun",
+    "ru": "солнце"
+  },
+  {
+    "kanji": "月",
+    "kana": "つき",
+    "romaji": "tsuki",
+    "meaning": "moon",
+    "en": "moon",
+    "ru": "луна"
+  },
+  {
+    "kanji": "星",
+    "kana": "ほし",
+    "romaji": "hoshi",
+    "meaning": "star",
+    "en": "star",
+    "ru": "звезда"
+  },
+  {
+    "kanji": "川",
+    "kana": "かわ",
+    "romaji": "kawa",
+    "meaning": "river",
+    "en": "river",
+    "ru": "река"
+  },
+  {
+    "kanji": "海",
+    "kana": "うみ",
+    "romaji": "umi",
+    "meaning": "sea",
+    "en": "sea",
+    "ru": "море"
+  },
+  {
+    "kanji": "山",
+    "kana": "やま",
+    "romaji": "yama",
+    "meaning": "mountain",
+    "en": "mountain",
+    "ru": "гора"
+  },
+  {
+    "kanji": "森",
+    "kana": "もり",
+    "romaji": "mori",
+    "meaning": "forest",
+    "en": "forest",
+    "ru": "лес"
+  },
+  {
+    "kanji": "木",
+    "kana": "き",
+    "romaji": "ki",
+    "meaning": "tree; wood",
+    "en": "tree; wood",
+    "ru": "дерево; древесина"
+  },
+  {
+    "kanji": "花",
+    "kana": "はな",
+    "romaji": "hana",
+    "meaning": "flower",
+    "en": "flower",
+    "ru": "цветок"
+  },
+  {
+    "kanji": "草",
+    "kana": "くさ",
+    "romaji": "kusa",
+    "meaning": "grass",
+    "en": "grass",
+    "ru": "трава"
+  },
+  {
+    "kanji": "手紙",
+    "kana": "てがみ",
+    "romaji": "tegami",
+    "meaning": "letter",
+    "en": "letter",
+    "ru": "письмо"
+  },
+  {
+    "kanji": "郵便",
+    "kana": "ゆうびん",
+    "romaji": "yuubin",
+    "meaning": "mail",
+    "en": "mail",
+    "ru": "почта"
+  },
+  {
+    "kanji": "切手",
+    "kana": "きって",
+    "romaji": "kitte",
+    "meaning": "stamp",
+    "en": "stamp",
+    "ru": "марка"
+  },
+  {
+    "kanji": "荷物",
+    "kana": "にもつ",
+    "romaji": "nimotsu",
+    "meaning": "luggage; package",
+    "en": "luggage; package",
+    "ru": "багаж; посылка"
+  },
+  {
+    "kanji": "料理",
+    "kana": "りょうり",
+    "romaji": "ryouri",
+    "meaning": "cooking; dish",
+    "en": "cuisine; dish",
+    "ru": "кулинария; блюдо"
+  },
+  {
+    "kanji": "朝食",
+    "kana": "ちょうしょく",
+    "romaji": "choushoku",
+    "meaning": "breakfast",
+    "en": "breakfast",
+    "ru": "завтрак"
+  },
+  {
+    "kanji": "昼食",
+    "kana": "ちゅうしょく",
+    "romaji": "chuushoku",
+    "meaning": "lunch",
+    "en": "lunch",
+    "ru": "обед"
+  },
+  {
+    "kanji": "夕食",
+    "kana": "ゆうしょく",
+    "romaji": "yuushoku",
+    "meaning": "dinner",
+    "en": "dinner",
+    "ru": "ужин"
+  },
+  {
+    "kanji": "映画",
+    "kana": "えいが",
+    "romaji": "eiga",
+    "meaning": "movie",
+    "en": "movie",
+    "ru": "фильм"
+  },
+  {
+    "kanji": "音楽",
+    "kana": "おんがく",
+    "romaji": "ongaku",
+    "meaning": "music",
+    "en": "music",
+    "ru": "музыка"
+  },
+  {
+    "kanji": "歌",
+    "kana": "うた",
+    "romaji": "uta",
+    "meaning": "song",
+    "en": "song",
+    "ru": "песня"
+  },
+  {
+    "kanji": "写真",
+    "kana": "しゃしん",
+    "romaji": "shashin",
+    "meaning": "photo",
+    "en": "photo",
+    "ru": "фотография"
+  },
+  {
+    "kanji": "絵",
+    "kana": "え",
+    "romaji": "e",
+    "meaning": "picture; painting",
+    "en": "picture; painting",
+    "ru": "картина; рисунок"
+  },
+  {
+    "kanji": "本",
+    "kana": "ほん",
+    "romaji": "hon",
+    "meaning": "book",
+    "en": "book",
+    "ru": "книга"
+  },
+  {
+    "kanji": "スポーツ",
+    "kana": "スポーツ",
+    "romaji": "supootsu",
+    "meaning": "sports",
+    "en": "sports",
+    "ru": "спорт"
+  },
+  {
+    "kanji": "サッカー",
+    "kana": "サッカー",
+    "romaji": "sakkaa",
+    "meaning": "soccer",
+    "en": "soccer",
+    "ru": "футбол"
+  },
+  {
+    "kanji": "野球",
+    "kana": "やきゅう",
+    "romaji": "yakyuu",
+    "meaning": "baseball",
+    "en": "baseball",
+    "ru": "бейсбол"
+  },
+  {
+    "kanji": "テニス",
+    "kana": "テニス",
+    "romaji": "tenisu",
+    "meaning": "tennis",
+    "en": "tennis",
+    "ru": "теннис"
+  },
+  {
+    "kanji": "水泳",
+    "kana": "すいえい",
+    "romaji": "suiei",
+    "meaning": "swimming",
+    "en": "swimming",
+    "ru": "плавание"
+  },
+  {
+    "kanji": "走る",
+    "kana": "はしる",
+    "romaji": "hashiru",
+    "meaning": "to run",
+    "en": "to run",
+    "ru": "бежать"
+  },
+  {
+    "kanji": "趣味",
+    "kana": "しゅみ",
+    "romaji": "shumi",
+    "meaning": "hobby",
+    "en": "hobby",
+    "ru": "хобби"
+  },
+  {
+    "kanji": "旅行",
+    "kana": "りょこう",
+    "romaji": "ryokou",
+    "meaning": "travel",
+    "en": "travel",
+    "ru": "путешествие"
+  },
+  {
+    "kanji": "買い物",
+    "kana": "かいもの",
+    "romaji": "kaimono",
+    "meaning": "shopping",
+    "en": "shopping",
+    "ru": "покупки"
+  },
+  {
+    "kanji": "散歩",
+    "kana": "さんぽ",
+    "romaji": "sanpo",
+    "meaning": "walk",
+    "en": "walk",
+    "ru": "прогулка"
+  },
+  {
+    "kanji": "会社",
+    "kana": "かいしゃ",
+    "romaji": "kaisha",
+    "meaning": "company",
+    "en": "company",
+    "ru": "компания"
+  },
+  {
+    "kanji": "工場",
+    "kana": "こうじょう",
+    "romaji": "koujou",
+    "meaning": "factory",
+    "en": "factory",
+    "ru": "фабрика"
+  },
+  {
+    "kanji": "事務所",
+    "kana": "じむしょ",
+    "romaji": "jimusho",
+    "meaning": "office",
+    "en": "office",
+    "ru": "офис"
+  },
+  {
+    "kanji": "店",
+    "kana": "みせ",
+    "romaji": "mise",
+    "meaning": "shop",
+    "en": "shop",
+    "ru": "магазин"
+  },
+  {
+    "kanji": "医者",
+    "kana": "いしゃ",
+    "romaji": "isha",
+    "meaning": "doctor",
+    "en": "doctor",
+    "ru": "врач"
+  },
+  {
+    "kanji": "看護師",
+    "kana": "かんごし",
+    "romaji": "kangoshi",
+    "meaning": "nurse",
+    "en": "nurse",
+    "ru": "медсестра/медбрат"
+  },
+  {
+    "kanji": "教師",
+    "kana": "きょうし",
+    "romaji": "kyoushi",
+    "meaning": "teacher (profession)",
+    "en": "teacher",
+    "ru": "учитель"
+  },
+  {
+    "kanji": "店員",
+    "kana": "てんいん",
+    "romaji": "tenin",
+    "meaning": "shop clerk",
+    "en": "clerk",
+    "ru": "продавец"
+  },
+  {
+    "kanji": "警察官",
+    "kana": "けいさつかん",
+    "romaji": "keisatsukan",
+    "meaning": "police officer",
+    "en": "police officer",
+    "ru": "полицейский"
+  },
+  {
+    "kanji": "消防士",
+    "kana": "しょうぼうし",
+    "romaji": "shouboushi",
+    "meaning": "firefighter",
+    "en": "firefighter",
+    "ru": "пожарный"
+  },
+  {
+    "kanji": "運転手",
+    "kana": "うんてんしゅ",
+    "romaji": "untenshu",
+    "meaning": "driver",
+    "en": "driver",
+    "ru": "водитель"
+  },
+  {
+    "kanji": "料理人",
+    "kana": "りょうりにん",
+    "romaji": "ryourinin",
+    "meaning": "cook; chef",
+    "en": "cook; chef",
+    "ru": "повар"
+  },
+  {
+    "kanji": "パソコン",
+    "kana": "パソコン",
+    "romaji": "pasokon",
+    "meaning": "PC; computer",
+    "en": "computer",
+    "ru": "компьютер"
+  },
+  {
+    "kanji": "スマホ",
+    "kana": "スマホ",
+    "romaji": "sumaho",
+    "meaning": "smartphone",
+    "en": "smartphone",
+    "ru": "смартфон"
+  },
+  {
+    "kanji": "インターネット",
+    "kana": "インターネット",
+    "romaji": "intaanetto",
+    "meaning": "internet",
+    "en": "internet",
+    "ru": "интернет"
+  },
+  {
+    "kanji": "メール",
+    "kana": "メール",
+    "romaji": "meeru",
+    "meaning": "email",
+    "en": "email",
+    "ru": "электронная почта"
+  },
+  {
+    "kanji": "写真",
+    "kana": "しゃしん",
+    "romaji": "shashin",
+    "meaning": "photo",
+    "en": "photo",
+    "ru": "фото"
+  },
+  {
+    "kanji": "動画",
+    "kana": "どうが",
+    "romaji": "douga",
+    "meaning": "video",
+    "en": "video",
+    "ru": "видео"
+  },
+  {
+    "kanji": "問題",
+    "kana": "もんだい",
+    "romaji": "mondai",
+    "meaning": "problem; question",
+    "en": "problem; question",
+    "ru": "проблема; вопрос"
+  },
+  {
+    "kanji": "答え",
+    "kana": "こたえ",
+    "romaji": "kotae",
+    "meaning": "answer",
+    "en": "answer",
+    "ru": "ответ"
+  },
+  {
+    "kanji": "理由",
+    "kana": "りゆう",
+    "romaji": "riyuu",
+    "meaning": "reason",
+    "en": "reason",
+    "ru": "причина"
+  },
+  {
+    "kanji": "方法",
+    "kana": "ほうほう",
+    "romaji": "houhou",
+    "meaning": "method",
+    "en": "method",
+    "ru": "метод"
+  },
+  {
+    "kanji": "例",
+    "kana": "れい",
+    "romaji": "rei",
+    "meaning": "example",
+    "en": "example",
+    "ru": "пример"
+  },
+  {
+    "kanji": "意味",
+    "kana": "いみ",
+    "romaji": "imi",
+    "meaning": "meaning",
+    "en": "meaning",
+    "ru": "значение"
+  },
+  {
+    "kanji": "上手",
+    "kana": "じょうず",
+    "romaji": "jouzu",
+    "meaning": "skillful",
+    "en": "skillful",
+    "ru": "умелый"
+  },
+  {
+    "kanji": "下手",
+    "kana": "へた",
+    "romaji": "heta",
+    "meaning": "unskillful",
+    "en": "unskillful",
+    "ru": "неумелый"
+  },
+  {
+    "kanji": "得意",
+    "kana": "とくい",
+    "romaji": "tokui",
+    "meaning": "good at",
+    "en": "good at",
+    "ru": "сильная сторона"
+  },
+  {
+    "kanji": "苦手",
+    "kana": "にがて",
+    "romaji": "nigate",
+    "meaning": "poor at",
+    "en": "poor at",
+    "ru": "слабая сторона"
+  },
+  {
+    "kanji": "兄弟",
+    "kana": "きょうだい",
+    "romaji": "kyoudai",
+    "meaning": "siblings",
+    "en": "siblings",
+    "ru": "братья и сёстры"
+  },
+  {
+    "kanji": "親",
+    "kana": "おや",
+    "romaji": "oya",
+    "meaning": "parent(s)",
+    "en": "parent(s)",
+    "ru": "родители"
+  },
+  {
+    "kanji": "祖父",
+    "kana": "そふ",
+    "romaji": "sofu",
+    "meaning": "grandfather (mine)",
+    "en": "grandfather",
+    "ru": "дедушка (мой)"
+  },
+  {
+    "kanji": "祖母",
+    "kana": "そぼ",
+    "romaji": "sobo",
+    "meaning": "grandmother (mine)",
+    "en": "grandmother",
+    "ru": "бабушка (моя)"
+  },
+  {
+    "kanji": "お祖父さん",
+    "kana": "おじいさん",
+    "romaji": "ojiisan",
+    "meaning": "grandfather (others)",
+    "en": "grandfather",
+    "ru": "дедушка (чужой)"
+  },
+  {
+    "kanji": "お祖母さん",
+    "kana": "おばあさん",
+    "romaji": "obaasan",
+    "meaning": "grandmother (others)",
+    "en": "grandmother",
+    "ru": "бабушка (чужая)"
+  },
+  {
+    "kanji": "色々",
+    "kana": "いろいろ",
+    "romaji": "iroiro",
+    "meaning": "various",
+    "en": "various",
+    "ru": "различные"
+  },
+  {
+    "kanji": "少し",
+    "kana": "すこし",
+    "romaji": "sukoshi",
+    "meaning": "a little",
+    "en": "a little",
+    "ru": "немного"
+  },
+  {
+    "kanji": "たくさん",
+    "kana": "たくさん",
+    "romaji": "takusan",
+    "meaning": "a lot",
+    "en": "a lot",
+    "ru": "много"
+  },
+  {
+    "kanji": "とても",
+    "kana": "とても",
+    "romaji": "totemo",
+    "meaning": "very",
+    "en": "very",
+    "ru": "очень"
+  },
+  {
+    "kanji": "あまり",
+    "kana": "あまり",
+    "romaji": "amari",
+    "meaning": "not much (with neg.)",
+    "en": "not much",
+    "ru": "не очень (в отриц.)"
+  },
+  {
+    "kanji": "全然",
+    "kana": "ぜんぜん",
+    "romaji": "zenzen",
+    "meaning": "not at all (with neg.)",
+    "en": "not at all",
+    "ru": "совсем не (в отриц.)"
+  },
+  {
+    "kanji": "よく",
+    "kana": "よく",
+    "romaji": "yoku",
+    "meaning": "often; well",
+    "en": "often; well",
+    "ru": "часто; хорошо"
+  },
+  {
+    "kanji": "たまに",
+    "kana": "たまに",
+    "romaji": "tamani",
+    "meaning": "occasionally",
+    "en": "occasionally",
+    "ru": "иногда"
+  },
+  {
+    "kanji": "いつも",
+    "kana": "いつも",
+    "romaji": "itsumo",
+    "meaning": "always",
+    "en": "always",
+    "ru": "всегда"
+  },
+  {
+    "kanji": "時々",
+    "kana": "ときどき",
+    "romaji": "tokidoki",
+    "meaning": "sometimes",
+    "en": "sometimes",
+    "ru": "иногда"
+  },
+  {
+    "kanji": "もう",
+    "kana": "もう",
+    "romaji": "mou",
+    "meaning": "already; soon",
+    "en": "already; soon",
+    "ru": "уже; скоро"
+  },
+  {
+    "kanji": "まだ",
+    "kana": "まだ",
+    "romaji": "mada",
+    "meaning": "still; not yet",
+    "en": "still; not yet",
+    "ru": "ещё; пока не"
+  },
+  {
+    "kanji": "すぐ",
+    "kana": "すぐ",
+    "romaji": "sugu",
+    "meaning": "soon; immediately",
+    "en": "soon; immediately",
+    "ru": "сразу; скоро"
+  },
+  {
+    "kanji": "ゆっくり",
+    "kana": "ゆっくり",
+    "romaji": "yukkuri",
+    "meaning": "slowly",
+    "en": "slowly",
+    "ru": "медленно"
+  },
+  {
+    "kanji": "食べ物",
+    "kana": "たべもの",
+    "romaji": "tabemono",
+    "meaning": "food",
+    "en": "food",
+    "ru": "еда"
+  },
+  {
+    "kanji": "飲み物",
+    "kana": "のみもの",
+    "romaji": "nomimono",
+    "meaning": "drink",
+    "en": "drink",
+    "ru": "напиток"
+  },
+  {
+    "kanji": "果汁",
+    "kana": "かじゅう",
+    "romaji": "kajuu",
+    "meaning": "fruit juice",
+    "en": "fruit juice",
+    "ru": "фруктовый сок"
+  },
+  {
+    "kanji": "火",
+    "kana": "ひ",
+    "romaji": "hi",
+    "meaning": "fire",
+    "en": "fire",
+    "ru": "огонь"
+  },
+  {
+    "kanji": "水",
+    "kana": "みず",
+    "romaji": "mizu",
+    "meaning": "water",
+    "en": "water",
+    "ru": "вода"
+  },
+  {
+    "kanji": "木",
+    "kana": "き",
+    "romaji": "ki",
+    "meaning": "tree; wood",
+    "en": "tree; wood",
+    "ru": "дерево; древесина"
+  },
+  {
+    "kanji": "金",
+    "kana": "きん",
+    "romaji": "kin",
+    "meaning": "gold; money (radical name)",
+    "en": "gold",
+    "ru": "золото"
+  },
+  {
+    "kanji": "土",
+    "kana": "つち",
+    "romaji": "tsuchi",
+    "meaning": "soil; earth",
+    "en": "earth",
+    "ru": "земля"
+  },
+  {
+    "kanji": "愛",
+    "kana": "あい",
+    "romaji": "ai",
+    "meaning": "love",
+    "en": "love",
+    "ru": "любовь"
+  },
+  {
+    "kanji": "好き",
+    "kana": "すき",
+    "romaji": "suki",
+    "meaning": "to like",
+    "en": "like",
+    "ru": "нравится"
+  },
+  {
+    "kanji": "嫌い",
+    "kana": "きらい",
+    "romaji": "kirai",
+    "meaning": "to dislike",
+    "en": "dislike",
+    "ru": "не нравится"
+  },
+  {
+    "kanji": "楽",
+    "kana": "らく",
+    "romaji": "raku",
+    "meaning": "easy; comfortable",
+    "en": "easy; comfortable",
+    "ru": "легко; удобно"
+  },
+  {
+    "kanji": "疲れる",
+    "kana": "つかれる",
+    "romaji": "tsukareru",
+    "meaning": "to get tired",
+    "en": "to get tired",
+    "ru": "уставать"
+  },
+  {
+    "kanji": "心配する",
+    "kana": "しんぱいする",
+    "romaji": "shinpai suru",
+    "meaning": "to worry",
+    "en": "to worry",
+    "ru": "беспокоиться"
+  },
+  {
+    "kanji": "安心する",
+    "kana": "あんしんする",
+    "romaji": "anshin suru",
+    "meaning": "to be relieved",
+    "en": "to be relieved",
+    "ru": "успокаиваться"
+  },
+  {
+    "kanji": "買ってくる",
+    "kana": "かってくる",
+    "romaji": "katte kuru",
+    "meaning": "to buy and bring",
+    "en": "to buy and bring",
+    "ru": "купить и принести"
+  },
+  {
+    "kanji": "持っていく",
+    "kana": "もっていく",
+    "romaji": "motte iku",
+    "meaning": "to take (something)",
+    "en": "to take (something)",
+    "ru": "унести"
+  },
+  {
+    "kanji": "持ってくる",
+    "kana": "もってくる",
+    "romaji": "motte kuru",
+    "meaning": "to bring (something)",
+    "en": "to bring (something)",
+    "ru": "принести"
+  },
+  {
+    "kanji": "送る",
+    "kana": "おくる",
+    "romaji": "okuru",
+    "meaning": "to send",
+    "en": "to send",
+    "ru": "отправлять"
+  },
+  {
+    "kanji": "借りる",
+    "kana": "かりる",
+    "romaji": "kariru",
+    "meaning": "to borrow",
+    "en": "to borrow",
+    "ru": "брать взаймы"
+  },
+  {
+    "kanji": "貸す",
+    "kana": "かす",
+    "romaji": "kasu",
+    "meaning": "to lend",
+    "en": "to lend",
+    "ru": "давать взаймы"
+  },
+  {
+    "kanji": "返す",
+    "kana": "かえす",
+    "romaji": "kaesu",
+    "meaning": "to return (something)",
+    "en": "to return",
+    "ru": "возвращать (вещь)"
+  },
+  {
+    "kanji": "開発",
+    "kana": "かいはつ",
+    "romaji": "kaihatsu",
+    "meaning": "development",
+    "en": "development",
+    "ru": "разработка"
+  },
+  {
+    "kanji": "設計",
+    "kana": "せっけい",
+    "romaji": "sekkei",
+    "meaning": "design",
+    "en": "design",
+    "ru": "проектирование"
+  },
+  {
+    "kanji": "実装",
+    "kana": "じっそう",
+    "romaji": "jissou",
+    "meaning": "implementation",
+    "en": "implementation",
+    "ru": "внедрение"
+  },
+  {
+    "kanji": "確認",
+    "kana": "かくにん",
+    "romaji": "kakunin",
+    "meaning": "confirmation",
+    "en": "confirmation",
+    "ru": "подтверждение"
+  },
+  {
+    "kanji": "左側",
+    "kana": "ひだりがわ",
+    "romaji": "hidarigawa",
+    "meaning": "left side",
+    "en": "left side",
+    "ru": "левая сторона"
+  },
+  {
+    "kanji": "右側",
+    "kana": "みぎがわ",
+    "romaji": "migigawa",
+    "meaning": "right side",
+    "en": "right side",
+    "ru": "правая сторона"
+  },
+  {
+    "kanji": "北",
+    "kana": "きた",
+    "romaji": "kita",
+    "meaning": "north",
+    "en": "north",
+    "ru": "север"
+  },
+  {
+    "kanji": "南",
+    "kana": "みなみ",
+    "romaji": "minami",
+    "meaning": "south",
+    "en": "south",
+    "ru": "юг"
+  },
+  {
+    "kanji": "東",
+    "kana": "ひがし",
+    "romaji": "higashi",
+    "meaning": "east",
+    "en": "east",
+    "ru": "восток"
+  },
+  {
+    "kanji": "西",
+    "kana": "にし",
+    "romaji": "nishi",
+    "meaning": "west",
+    "en": "west",
+    "ru": "запад"
+  },
+  {
+    "kanji": "一",
+    "kana": "いち",
+    "romaji": "ichi",
+    "meaning": "one",
+    "en": "one",
+    "ru": "один"
+  },
+  {
+    "kanji": "二",
+    "kana": "に",
+    "romaji": "ni",
+    "meaning": "two",
+    "en": "two",
+    "ru": "два"
+  },
+  {
+    "kanji": "三",
+    "kana": "さん",
+    "romaji": "san",
+    "meaning": "three",
+    "en": "three",
+    "ru": "три"
+  },
+  {
+    "kanji": "四",
+    "kana": "よん",
+    "romaji": "yon",
+    "meaning": "four",
+    "en": "four",
+    "ru": "четыре"
+  },
+  {
+    "kanji": "五",
+    "kana": "ご",
+    "romaji": "go",
+    "meaning": "five",
+    "en": "five",
+    "ru": "пять"
+  },
+  {
+    "kanji": "六",
+    "kana": "ろく",
+    "romaji": "roku",
+    "meaning": "six",
+    "en": "six",
+    "ru": "шесть"
+  },
+  {
+    "kanji": "七",
+    "kana": "なな",
+    "romaji": "nana",
+    "meaning": "seven",
+    "en": "seven",
+    "ru": "семь"
+  },
+  {
+    "kanji": "八",
+    "kana": "はち",
+    "romaji": "hachi",
+    "meaning": "eight",
+    "en": "eight",
+    "ru": "восемь"
+  },
+  {
+    "kanji": "九",
+    "kana": "きゅう",
+    "romaji": "kyuu",
+    "meaning": "nine",
+    "en": "nine",
+    "ru": "девять"
+  },
+  {
+    "kanji": "十",
+    "kana": "じゅう",
+    "romaji": "juu",
+    "meaning": "ten",
+    "en": "ten",
+    "ru": "десять"
+  },
+  {
+    "kanji": "十一",
+    "kana": "じゅういち",
+    "romaji": "juuichi",
+    "meaning": "eleven",
+    "en": "eleven",
+    "ru": "одиннадцать"
+  },
+  {
+    "kanji": "十二",
+    "kana": "じゅうに",
+    "romaji": "juuni",
+    "meaning": "twelve",
+    "en": "twelve",
+    "ru": "двенадцать"
+  },
+  {
+    "kanji": "十三",
+    "kana": "じゅうさん",
+    "romaji": "juusan",
+    "meaning": "thirteen",
+    "en": "thirteen",
+    "ru": "тринадцать"
+  },
+  {
+    "kanji": "十四",
+    "kana": "じゅうよん",
+    "romaji": "juuyon",
+    "meaning": "fourteen",
+    "en": "fourteen",
+    "ru": "четырнадцать"
+  },
+  {
+    "kanji": "十五",
+    "kana": "じゅうご",
+    "romaji": "juugo",
+    "meaning": "fifteen",
+    "en": "fifteen",
+    "ru": "пятнадцать"
+  },
+  {
+    "kanji": "十六",
+    "kana": "じゅうろく",
+    "romaji": "juuroku",
+    "meaning": "sixteen",
+    "en": "sixteen",
+    "ru": "шестнадцать"
+  },
+  {
+    "kanji": "十七",
+    "kana": "じゅうなな",
+    "romaji": "juunana",
+    "meaning": "seventeen",
+    "en": "seventeen",
+    "ru": "семнадцать"
+  },
+  {
+    "kanji": "十八",
+    "kana": "じゅうはち",
+    "romaji": "juuhachi",
+    "meaning": "eighteen",
+    "en": "eighteen",
+    "ru": "восемнадцать"
+  },
+  {
+    "kanji": "十九",
+    "kana": "じゅうきゅう",
+    "romaji": "juukyuu",
+    "meaning": "nineteen",
+    "en": "nineteen",
+    "ru": "девятнадцать"
+  },
+  {
+    "kanji": "二十",
+    "kana": "にじゅう",
+    "romaji": "nijuu",
+    "meaning": "twenty",
+    "en": "twenty",
+    "ru": "двадцать"
+  },
+  {
+    "kanji": "百",
+    "kana": "ひゃく",
+    "romaji": "hyaku",
+    "meaning": "hundred",
+    "en": "hundred",
+    "ru": "сто"
+  },
+  {
+    "kanji": "千",
+    "kana": "せん",
+    "romaji": "sen",
+    "meaning": "thousand",
+    "en": "thousand",
+    "ru": "тысяча"
+  },
+  {
+    "kanji": "黒板",
+    "kana": "こくばん",
+    "romaji": "kokuban",
+    "meaning": "blackboard",
+    "en": "blackboard",
+    "ru": "доска"
+  },
+  {
+    "kanji": "窓",
+    "kana": "まど",
+    "romaji": "mado",
+    "meaning": "window",
+    "en": "window",
+    "ru": "окно"
+  },
+  {
+    "kanji": "カーテン",
+    "kana": "カーテン",
+    "romaji": "kaaten",
+    "meaning": "curtain",
+    "en": "curtain",
+    "ru": "штора"
+  },
+  {
+    "kanji": "電気",
+    "kana": "でんき",
+    "romaji": "denki",
+    "meaning": "electricity; light",
+    "en": "electricity; light",
+    "ru": "электричество; свет"
+  },
+  {
+    "kanji": "エアコン",
+    "kana": "エアコン",
+    "romaji": "eakon",
+    "meaning": "air conditioner",
+    "en": "air conditioner",
+    "ru": "кондиционер"
+  },
+  {
+    "kanji": "勉強",
+    "kana": "べんきょう",
+    "romaji": "benkyou",
+    "meaning": "study",
+    "en": "study",
+    "ru": "учёба"
+  },
+  {
+    "kanji": "練習",
+    "kana": "れんしゅう",
+    "romaji": "renshuu",
+    "meaning": "practice",
+    "en": "practice",
+    "ru": "практика"
+  },
+  {
+    "kanji": "宿題",
+    "kana": "しゅくだい",
+    "romaji": "shukudai",
+    "meaning": "homework",
+    "en": "homework",
+    "ru": "домашнее задание"
+  },
+  {
+    "kanji": "朝食",
+    "kana": "ちょうしょく",
+    "romaji": "choushoku",
+    "meaning": "breakfast",
+    "en": "breakfast",
+    "ru": "завтрак"
+  },
+  {
+    "kanji": "昼食",
+    "kana": "ちゅうしょく",
+    "romaji": "chuushoku",
+    "meaning": "lunch",
+    "en": "lunch",
+    "ru": "обед"
+  },
+  {
+    "kanji": "夕食",
+    "kana": "ゆうしょく",
+    "romaji": "yuushoku",
+    "meaning": "dinner",
+    "en": "dinner",
+    "ru": "ужин"
+  },
+  {
+    "kanji": "増える",
+    "kana": "ふえる",
+    "romaji": "fueru",
+    "meaning": "to increase (intransitive)",
+    "en": "to increase (intransitive)",
+    "ru": "увеличиваться"
+  },
+  {
+    "kanji": "増やす",
+    "kana": "ふやす",
+    "romaji": "fuyasu",
+    "meaning": "to increase (something)",
+    "en": "to increase (something)",
+    "ru": "увеличивать"
+  },
+  {
+    "kanji": "減る",
+    "kana": "へる",
+    "romaji": "heru",
+    "meaning": "to decrease (intransitive)",
+    "en": "to decrease (intransitive)",
+    "ru": "уменьшаться"
+  },
+  {
+    "kanji": "減らす",
+    "kana": "へらす",
+    "romaji": "herasu",
+    "meaning": "to decrease (something)",
+    "en": "to decrease (something)",
+    "ru": "уменьшать"
+  },
+  {
+    "kanji": "続く",
+    "kana": "つづく",
+    "romaji": "tsuzuku",
+    "meaning": "to continue (intransitive)",
+    "en": "to continue (intransitive)",
+    "ru": "продолжаться"
+  },
+  {
+    "kanji": "続ける",
+    "kana": "つづける",
+    "romaji": "tsuzukeru",
+    "meaning": "to continue (something)",
+    "en": "to continue (something)",
+    "ru": "продолжать"
+  },
+  {
+    "kanji": "決まる",
+    "kana": "きまる",
+    "romaji": "kimaru",
+    "meaning": "to be decided",
+    "en": "to be decided",
+    "ru": "решаться"
+  },
+  {
+    "kanji": "決める",
+    "kana": "きめる",
+    "romaji": "kimeru",
+    "meaning": "to decide",
+    "en": "to decide",
+    "ru": "решать"
+  },
+  {
+    "kanji": "変わる",
+    "kana": "かわる",
+    "romaji": "kawaru",
+    "meaning": "to change (intransitive)",
+    "en": "to change (intransitive)",
+    "ru": "меняться"
+  },
+  {
+    "kanji": "変える",
+    "kana": "かえる",
+    "romaji": "kaeru",
+    "meaning": "to change (something)",
+    "en": "to change (something)",
+    "ru": "менять"
+  },
+  {
+    "kanji": "並ぶ",
+    "kana": "ならぶ",
+    "romaji": "narabu",
+    "meaning": "to line up",
+    "en": "to line up",
+    "ru": "стоять в очереди"
+  },
+  {
+    "kanji": "並べる",
+    "kana": "ならべる",
+    "romaji": "naraberu",
+    "meaning": "to arrange",
+    "en": "to arrange",
+    "ru": "расставлять"
+  },
+  {
+    "kanji": "落ちる",
+    "kana": "おちる",
+    "romaji": "ochiru",
+    "meaning": "to fall; to drop (intransitive)",
+    "en": "to fall (intransitive)",
+    "ru": "падать"
+  },
+  {
+    "kanji": "落とす",
+    "kana": "おとす",
+    "romaji": "otosu",
+    "meaning": "to drop (something)",
+    "en": "to drop (something)",
+    "ru": "ронять"
+  },
+  {
+    "kanji": "起こす",
+    "kana": "おこす",
+    "romaji": "okosu",
+    "meaning": "to cause; to wake someone",
+    "en": "to cause; to wake",
+    "ru": "вызывать; будить"
+  },
+  {
+    "kanji": "届く",
+    "kana": "とどく",
+    "romaji": "todoku",
+    "meaning": "to arrive; to reach",
+    "en": "to arrive",
+    "ru": "доставляться; достигать"
+  },
+  {
+    "kanji": "届ける",
+    "kana": "とどける",
+    "romaji": "todokeru",
+    "meaning": "to deliver",
+    "en": "to deliver",
+    "ru": "доставлять"
+  },
+  {
+    "kanji": "断る",
+    "kana": "ことわる",
+    "romaji": "kotowaru",
+    "meaning": "to refuse; to decline",
+    "en": "to refuse",
+    "ru": "отказывать"
+  },
+  {
+    "kanji": "認める",
+    "kana": "みとめる",
+    "romaji": "mitomeru",
+    "meaning": "to admit; to approve",
+    "en": "to approve; to acknowledge",
+    "ru": "признавать; одобрять"
+  },
+  {
+    "kanji": "申請する",
+    "kana": "しんせいする",
+    "romaji": "shinsei suru",
+    "meaning": "to apply (officially)",
+    "en": "to apply",
+    "ru": "подавать заявку"
+  },
+  {
+    "kanji": "承認する",
+    "kana": "しょうにんする",
+    "romaji": "shounin suru",
+    "meaning": "to approve; to authorize",
+    "en": "to approve",
+    "ru": "утверждать; одобрять"
+  },
+  {
+    "kanji": "依頼する",
+    "kana": "いらいする",
+    "romaji": "irai suru",
+    "meaning": "to request",
+    "en": "to request",
+    "ru": "запрашивать"
+  },
+  {
+    "kanji": "提案する",
+    "kana": "ていあんする",
+    "romaji": "teian suru",
+    "meaning": "to propose",
+    "en": "to propose",
+    "ru": "предлагать (идею)"
+  },
+  {
+    "kanji": "相談する",
+    "kana": "そうだんする",
+    "romaji": "soudan suru",
+    "meaning": "to consult",
+    "en": "to consult",
+    "ru": "советоваться"
+  },
+  {
+    "kanji": "交渉する",
+    "kana": "こうしょうする",
+    "romaji": "koushou suru",
+    "meaning": "to negotiate",
+    "en": "to negotiate",
+    "ru": "вести переговоры"
+  },
+  {
+    "kanji": "契約する",
+    "kana": "けいやくする",
+    "romaji": "keiyaku suru",
+    "meaning": "to make a contract",
+    "en": "to make a contract",
+    "ru": "заключать контракт"
+  },
+  {
+    "kanji": "解約する",
+    "kana": "かいやくする",
+    "romaji": "kaiyaku suru",
+    "meaning": "to cancel a contract",
+    "en": "to cancel a contract",
+    "ru": "расторгать контракт"
+  },
+  {
+    "kanji": "発注する",
+    "kana": "はっちゅうする",
+    "romaji": "hacchuu suru",
+    "meaning": "to place an order",
+    "en": "to place an order",
+    "ru": "размещать заказ"
+  },
+  {
+    "kanji": "納品する",
+    "kana": "のうひんする",
+    "romaji": "nouhin suru",
+    "meaning": "to deliver goods",
+    "en": "to deliver goods",
+    "ru": "поставлять товар"
+  },
+  {
+    "kanji": "請求する",
+    "kana": "せいきゅうする",
+    "romaji": "seikyuu suru",
+    "meaning": "to invoice; to charge",
+    "en": "to invoice",
+    "ru": "выставлять счёт"
+  },
+  {
+    "kanji": "入金する",
+    "kana": "にゅうきんする",
+    "romaji": "nyuukin suru",
+    "meaning": "to receive payment",
+    "en": "to receive payment",
+    "ru": "получать оплату"
+  },
+  {
+    "kanji": "送金する",
+    "kana": "そうきんする",
+    "romaji": "soukin suru",
+    "meaning": "to remit; to transfer money",
+    "en": "to transfer money",
+    "ru": "переводить деньги"
+  },
+  {
+    "kanji": "振り込む",
+    "kana": "ふりこむ",
+    "romaji": "furikomu",
+    "meaning": "to make a bank transfer",
+    "en": "to make a transfer",
+    "ru": "переводить на счёт"
+  },
+  {
+    "kanji": "連絡する",
+    "kana": "れんらくする",
+    "romaji": "renraku suru",
+    "meaning": "to contact",
+    "en": "to contact",
+    "ru": "связываться"
+  },
+  {
+    "kanji": "返信する",
+    "kana": "へんしんする",
+    "romaji": "henshin suru",
+    "meaning": "to reply",
+    "en": "to reply",
+    "ru": "отвечать (в сообщении)"
+  },
+  {
+    "kanji": "共有する",
+    "kana": "きょうゆうする",
+    "romaji": "kyouyuu suru",
+    "meaning": "to share",
+    "en": "to share",
+    "ru": "делиться"
+  },
+  {
+    "kanji": "添付する",
+    "kana": "てんぷする",
+    "romaji": "tenpu suru",
+    "meaning": "to attach (a file)",
+    "en": "to attach",
+    "ru": "прикреплять (файл)"
+  },
+  {
+    "kanji": "印刷する",
+    "kana": "いんさつする",
+    "romaji": "insatsu suru",
+    "meaning": "to print",
+    "en": "to print",
+    "ru": "печатать"
+  },
+  {
+    "kanji": "保存する",
+    "kana": "ほぞんする",
+    "romaji": "hozon suru",
+    "meaning": "to save; to preserve",
+    "en": "to save",
+    "ru": "сохранять"
+  },
+  {
+    "kanji": "更新する",
+    "kana": "こうしんする",
+    "romaji": "koushin suru",
+    "meaning": "to update",
+    "en": "to update",
+    "ru": "обновлять"
+  },
+  {
+    "kanji": "変更する",
+    "kana": "へんこうする",
+    "romaji": "henkou suru",
+    "meaning": "to change; to modify",
+    "en": "to change",
+    "ru": "изменять"
+  },
+  {
+    "kanji": "削除する",
+    "kana": "さくじょする",
+    "romaji": "sakujo suru",
+    "meaning": "to delete",
+    "en": "to delete",
+    "ru": "удалять"
+  },
+  {
+    "kanji": "導入する",
+    "kana": "どうにゅうする",
+    "romaji": "dounyuu suru",
+    "meaning": "to introduce; to implement",
+    "en": "to implement",
+    "ru": "внедрять"
+  },
+  {
+    "kanji": "検討する",
+    "kana": "けんとうする",
+    "romaji": "kentou suru",
+    "meaning": "to consider; to discuss",
+    "en": "to consider",
+    "ru": "рассматривать; обсуждать"
+  },
+  {
+    "kanji": "会議室",
+    "kana": "かいぎしつ",
+    "romaji": "kaigishitsu",
+    "meaning": "meeting room",
+    "en": "meeting room",
+    "ru": "переговорная"
+  },
+  {
+    "kanji": "議事録",
+    "kana": "ぎじろく",
+    "romaji": "gijiroku",
+    "meaning": "minutes (of a meeting)",
+    "en": "minutes",
+    "ru": "протокол собрания"
+  },
+  {
+    "kanji": "締切",
+    "kana": "しめきり",
+    "romaji": "shimekiri",
+    "meaning": "deadline",
+    "en": "deadline",
+    "ru": "крайний срок"
+  },
+  {
+    "kanji": "期限",
+    "kana": "きげん",
+    "romaji": "kigen",
+    "meaning": "time limit; due date",
+    "en": "due date",
+    "ru": "срок"
+  },
+  {
+    "kanji": "見積もり",
+    "kana": "みつもり",
+    "romaji": "mitsumori",
+    "meaning": "quotation; estimate",
+    "en": "estimate",
+    "ru": "смета; коммерческое предложение"
+  },
+  {
+    "kanji": "予算",
+    "kana": "よさん",
+    "romaji": "yosan",
+    "meaning": "budget",
+    "en": "budget",
+    "ru": "бюджет"
+  },
+  {
+    "kanji": "経費",
+    "kana": "けいひ",
+    "romaji": "keihi",
+    "meaning": "expenses",
+    "en": "expenses",
+    "ru": "расходы"
+  },
+  {
+    "kanji": "清算",
+    "kana": "せいさん",
+    "romaji": "seisan",
+    "meaning": "settlement (expenses)",
+    "en": "settlement",
+    "ru": "урегулирование; расчёт"
+  },
+  {
+    "kanji": "請求書",
+    "kana": "せいきゅうしょ",
+    "romaji": "seikyuusho",
+    "meaning": "invoice",
+    "en": "invoice",
+    "ru": "счёт-фактура"
+  },
+  {
+    "kanji": "領収書",
+    "kana": "りょうしゅうしょ",
+    "romaji": "ryoushuusho",
+    "meaning": "receipt",
+    "en": "receipt",
+    "ru": "квитанция"
+  },
+  {
+    "kanji": "契約書",
+    "kana": "けいやくしょ",
+    "romaji": "keiyakusho",
+    "meaning": "contract document",
+    "en": "contract",
+    "ru": "договор (документ)"
+  },
+  {
+    "kanji": "方針",
+    "kana": "ほうしん",
+    "romaji": "houshin",
+    "meaning": "policy",
+    "en": "policy",
+    "ru": "политика"
+  },
+  {
+    "kanji": "目標",
+    "kana": "もくひょう",
+    "romaji": "mokuhyou",
+    "meaning": "goal; target",
+    "en": "goal",
+    "ru": "цель"
+  },
+  {
+    "kanji": "進捗",
+    "kana": "しんちょく",
+    "romaji": "shinchoku",
+    "meaning": "progress",
+    "en": "progress",
+    "ru": "прогресс"
+  },
+  {
+    "kanji": "案件",
+    "kana": "あんけん",
+    "romaji": "anken",
+    "meaning": "case; project",
+    "en": "project/case",
+    "ru": "проект; кейс"
+  },
+  {
+    "kanji": "取引先",
+    "kana": "とりひきさき",
+    "romaji": "torihikisaki",
+    "meaning": "client; business partner",
+    "en": "client",
+    "ru": "клиент; партнёр"
+  },
+  {
+    "kanji": "顧客",
+    "kana": "こきゃく",
+    "romaji": "kokyaku",
+    "meaning": "customer",
+    "en": "customer",
+    "ru": "заказчик; клиент"
+  },
+  {
+    "kanji": "営業",
+    "kana": "えいぎょう",
+    "romaji": "eigyō",
+    "meaning": "sales; business",
+    "en": "sales",
+    "ru": "отдел продаж; продажи"
+  },
+  {
+    "kanji": "売上",
+    "kana": "うりあげ",
+    "romaji": "uriage",
+    "meaning": "sales (revenue)",
+    "en": "revenue",
+    "ru": "выручка"
+  },
+  {
+    "kanji": "利益",
+    "kana": "りえき",
+    "romaji": "rieki",
+    "meaning": "profit",
+    "en": "profit",
+    "ru": "прибыль"
+  },
+  {
+    "kanji": "原価",
+    "kana": "げんか",
+    "romaji": "genka",
+    "meaning": "cost price",
+    "en": "cost",
+    "ru": "себестоимость"
+  },
+  {
+    "kanji": "在庫",
+    "kana": "ざいこ",
+    "romaji": "zaiko",
+    "meaning": "inventory; stock",
+    "en": "inventory",
+    "ru": "запасы; склад"
+  },
+  {
+    "kanji": "納期",
+    "kana": "のうき",
+    "romaji": "nouki",
+    "meaning": "delivery date",
+    "en": "delivery date",
+    "ru": "срок поставки"
+  },
+  {
+    "kanji": "部署",
+    "kana": "ぶしょ",
+    "romaji": "busho",
+    "meaning": "department",
+    "en": "department",
+    "ru": "подразделение"
+  },
+  {
+    "kanji": "総務",
+    "kana": "そうむ",
+    "romaji": "soumu",
+    "meaning": "general affairs",
+    "en": "general affairs",
+    "ru": "общий отдел (администрация)"
+  },
+  {
+    "kanji": "経理",
+    "kana": "けいり",
+    "romaji": "keiri",
+    "meaning": "accounting",
+    "en": "accounting",
+    "ru": "бухгалтерия"
+  },
+  {
+    "kanji": "人事",
+    "kana": "じんじ",
+    "romaji": "jinji",
+    "meaning": "HR; personnel",
+    "en": "HR",
+    "ru": "кадры"
+  },
+  {
+    "kanji": "広報",
+    "kana": "こうほう",
+    "romaji": "kouhou",
+    "meaning": "public relations",
+    "en": "PR",
+    "ru": "связи с общественностью"
+  },
+  {
+    "kanji": "法務",
+    "kana": "ほうむ",
+    "romaji": "houmu",
+    "meaning": "legal affairs",
+    "en": "legal",
+    "ru": "юридический отдел"
+  },
+  {
+    "kanji": "役員",
+    "kana": "やくいん",
+    "romaji": "yakuin",
+    "meaning": "executive; officer",
+    "en": "executive",
+    "ru": "руководитель; директор"
+  },
+  {
+    "kanji": "取締役",
+    "kana": "とりしまりやく",
+    "romaji": "torishimariyaku",
+    "meaning": "director (board)",
+    "en": "director",
+    "ru": "член совета директоров"
+  },
+  {
+    "kanji": "代表取締役",
+    "kana": "だいひょうとりしまりやく",
+    "romaji": "daihyou torishimariyaku",
+    "meaning": "representative director",
+    "en": "CEO (Rep. Director)",
+    "ru": "генеральный директор"
+  },
+  {
+    "kanji": "課長",
+    "kana": "かちょう",
+    "romaji": "kachou",
+    "meaning": "section manager",
+    "en": "section manager",
+    "ru": "руководитель секции"
+  },
+  {
+    "kanji": "係長",
+    "kana": "かかりちょう",
+    "romaji": "kakarichou",
+    "meaning": "assistant manager",
+    "en": "assistant manager",
+    "ru": "старший специалист"
+  },
+  {
+    "kanji": "新入社員",
+    "kana": "しんにゅうしゃいん",
+    "romaji": "shinnyuu shain",
+    "meaning": "new employee",
+    "en": "new employee",
+    "ru": "новый сотрудник"
+  },
+  {
+    "kanji": "研修",
+    "kana": "けんしゅう",
+    "romaji": "kenshuu",
+    "meaning": "training",
+    "en": "training",
+    "ru": "обучение; стажировка"
+  },
+  {
+    "kanji": "旅館",
+    "kana": "りょかん",
+    "romaji": "ryokan",
+    "meaning": "Japanese inn",
+    "en": "Japanese inn",
+    "ru": "рёкан (традиционная гостиница)"
+  },
+  {
+    "kanji": "ホテル",
+    "kana": "ホテル",
+    "romaji": "hoteru",
+    "meaning": "hotel",
+    "en": "hotel",
+    "ru": "отель"
+  },
+  {
+    "kanji": "宿泊",
+    "kana": "しゅくはく",
+    "romaji": "shukuhaku",
+    "meaning": "lodging; stay",
+    "en": "accommodation",
+    "ru": "проживание"
+  },
+  {
+    "kanji": "予約",
+    "kana": "よやく",
+    "romaji": "yoyaku",
+    "meaning": "reservation",
+    "en": "reservation",
+    "ru": "бронь"
+  },
+  {
+    "kanji": "予約確認",
+    "kana": "よやくかくにん",
+    "romaji": "yoyaku kakunin",
+    "meaning": "reservation confirmation",
+    "en": "reservation confirmation",
+    "ru": "подтверждение брони"
+  },
+  {
+    "kanji": "便",
+    "kana": "びん",
+    "romaji": "bin",
+    "meaning": "(flight) number",
+    "en": "flight (number)",
+    "ru": "рейс"
+  },
+  {
+    "kanji": "搭乗券",
+    "kana": "とうじょうけん",
+    "romaji": "toujouken",
+    "meaning": "boarding pass",
+    "en": "boarding pass",
+    "ru": "посадочный талон"
+  },
+  {
+    "kanji": "搭乗口",
+    "kana": "とうじょうぐち",
+    "romaji": "toujouguchi",
+    "meaning": "boarding gate",
+    "en": "boarding gate",
+    "ru": "выход на посадку"
+  },
+  {
+    "kanji": "出発",
+    "kana": "しゅっぱつ",
+    "romaji": "shuppatsu",
+    "meaning": "departure",
+    "en": "departure",
+    "ru": "отправление"
+  },
+  {
+    "kanji": "到着",
+    "kana": "とうちゃく",
+    "romaji": "touchaku",
+    "meaning": "arrival",
+    "en": "arrival",
+    "ru": "прибытие"
+  },
+  {
+    "kanji": "出国",
+    "kana": "しゅっこく",
+    "romaji": "shukkoku",
+    "meaning": "departure from country",
+    "en": "exit (immigration)",
+    "ru": "выезд из страны"
+  },
+  {
+    "kanji": "入国",
+    "kana": "にゅうこく",
+    "romaji": "nyuukoku",
+    "meaning": "entry into country",
+    "en": "entry (immigration)",
+    "ru": "въезд в страну"
+  },
+  {
+    "kanji": "税関",
+    "kana": "ぜいかん",
+    "romaji": "zeikan",
+    "meaning": "customs",
+    "en": "customs",
+    "ru": "таможня"
+  },
+  {
+    "kanji": "手荷物",
+    "kana": "てにもつ",
+    "romaji": "tenimotsu",
+    "meaning": "baggage; luggage",
+    "en": "baggage",
+    "ru": "багаж"
+  },
+  {
+    "kanji": "荷物預かり",
+    "kana": "にもつあずかり",
+    "romaji": "nimotsu azukari",
+    "meaning": "baggage storage",
+    "en": "baggage storage",
+    "ru": "камера хранения"
+  },
+  {
+    "kanji": "受託手荷物",
+    "kana": "じゅたくてにもつ",
+    "romaji": "jutaku tenimotsu",
+    "meaning": "checked baggage",
+    "en": "checked baggage",
+    "ru": "сдаваемый багаж"
+  },
+  {
+    "kanji": "機内持ち込み",
+    "kana": "きないもちこみ",
+    "romaji": "kinai mochikomi",
+    "meaning": "carry-on baggage",
+    "en": "carry-on",
+    "ru": "ручная кладь"
+  },
+  {
+    "kanji": "乗り換え",
+    "kana": "のりかえ",
+    "romaji": "norikae",
+    "meaning": "transfer (transport)",
+    "en": "transfer",
+    "ru": "пересадка"
+  },
+  {
+    "kanji": "直行便",
+    "kana": "ちょっこうびん",
+    "romaji": "chokkoubin",
+    "meaning": "direct flight",
+    "en": "direct flight",
+    "ru": "прямой рейс"
+  },
+  {
+    "kanji": "経由便",
+    "kana": "けいゆびん",
+    "romaji": "keiyubin",
+    "meaning": "connecting flight",
+    "en": "connecting flight",
+    "ru": "рейс с пересадкой"
+  },
+  {
+    "kanji": "片道",
+    "kana": "かたみち",
+    "romaji": "katamichi",
+    "meaning": "one-way",
+    "en": "one-way",
+    "ru": "в одну сторону"
+  },
+  {
+    "kanji": "往復",
+    "kana": "おうふく",
+    "romaji": "oufuku",
+    "meaning": "round trip",
+    "en": "round trip",
+    "ru": "туда и обратно"
+  },
+  {
+    "kanji": "切符",
+    "kana": "きっぷ",
+    "romaji": "kippu",
+    "meaning": "ticket",
+    "en": "ticket",
+    "ru": "билет"
+  },
+  {
+    "kanji": "定期券",
+    "kana": "ていきけん",
+    "romaji": "teikiken",
+    "meaning": "commuter pass",
+    "en": "commuter pass",
+    "ru": "проездной"
+  },
+  {
+    "kanji": "改札",
+    "kana": "かいさつ",
+    "romaji": "kaisatsu",
+    "meaning": "ticket gate",
+    "en": "ticket gate",
+    "ru": "контроль билетов"
+  },
+  {
+    "kanji": "ホーム",
+    "kana": "ホーム",
+    "romaji": "hoomu",
+    "meaning": "platform",
+    "en": "platform",
+    "ru": "платформа"
+  },
+  {
+    "kanji": "番線",
+    "kana": "ばんせん",
+    "romaji": "bansen",
+    "meaning": "track number",
+    "en": "track",
+    "ru": "путь (номер)"
+  },
+  {
+    "kanji": "自由席",
+    "kana": "じゆうせき",
+    "romaji": "jiyuuseki",
+    "meaning": "non-reserved seat",
+    "en": "non-reserved seat",
+    "ru": "свободные места"
+  },
+  {
+    "kanji": "指定席",
+    "kana": "していせき",
+    "romaji": "shiteiseki",
+    "meaning": "reserved seat",
+    "en": "reserved seat",
+    "ru": "место по брони"
+  },
+  {
+    "kanji": "満席",
+    "kana": "まんせき",
+    "romaji": "manseki",
+    "meaning": "fully booked",
+    "en": "fully booked",
+    "ru": "нет мест"
+  },
+  {
+    "kanji": "空席",
+    "kana": "くうせき",
+    "romaji": "kuuseki",
+    "meaning": "available seat",
+    "en": "available seat",
+    "ru": "свободное место"
+  },
+  {
+    "kanji": "遅延",
+    "kana": "ちえん",
+    "romaji": "chien",
+    "meaning": "delay",
+    "en": "delay",
+    "ru": "задержка"
+  },
+  {
+    "kanji": "運休",
+    "kana": "うんきゅう",
+    "romaji": "unkyuu",
+    "meaning": "suspension (service)",
+    "en": "service suspended",
+    "ru": "отмена рейса/поезда"
+  },
+  {
+    "kanji": "路線図",
+    "kana": "ろせんず",
+    "romaji": "rosenzu",
+    "meaning": "route map",
+    "en": "route map",
+    "ru": "схема маршрутов"
+  },
+  {
+    "kanji": "地図",
+    "kana": "ちず",
+    "romaji": "chizu",
+    "meaning": "map",
+    "en": "map",
+    "ru": "карта"
+  },
+  {
+    "kanji": "観光",
+    "kana": "かんこう",
+    "romaji": "kankou",
+    "meaning": "sightseeing",
+    "en": "sightseeing",
+    "ru": "туризм; осмотр достопримечательностей"
+  },
+  {
+    "kanji": "名所",
+    "kana": "めいしょ",
+    "romaji": "meisho",
+    "meaning": "famous place",
+    "en": "landmark",
+    "ru": "достопримечательность"
+  },
+  {
+    "kanji": "名物",
+    "kana": "めいぶつ",
+    "romaji": "meibutsu",
+    "meaning": "local specialty",
+    "en": "local specialty",
+    "ru": "местная достопримечательность/специалитет"
+  },
+  {
+    "kanji": "お土産",
+    "kana": "おみやげ",
+    "romaji": "omiyage",
+    "meaning": "souvenir",
+    "en": "souvenir",
+    "ru": "сувенир"
+  },
+  {
+    "kanji": "案内所",
+    "kana": "あんないじょ",
+    "romaji": "annaijo",
+    "meaning": "information desk",
+    "en": "information desk",
+    "ru": "справочное бюро"
+  },
+  {
+    "kanji": "レンタカー",
+    "kana": "レンタカー",
+    "romaji": "rentakaa",
+    "meaning": "rental car",
+    "en": "rental car",
+    "ru": "прокат авто"
+  },
+  {
+    "kanji": "ガソリンスタンド",
+    "kana": "ガソリンスタンド",
+    "romaji": "gasorin sutando",
+    "meaning": "gas station",
+    "en": "gas station",
+    "ru": "заправка"
+  },
+  {
+    "kanji": "駐車場",
+    "kana": "ちゅうしゃじょう",
+    "romaji": "chuushajou",
+    "meaning": "parking lot",
+    "en": "parking lot",
+    "ru": "парковка"
+  },
+  {
+    "kanji": "高速道路",
+    "kana": "こうそくどうろ",
+    "romaji": "kousoku douro",
+    "meaning": "expressway",
+    "en": "expressway",
+    "ru": "автомагистраль"
+  },
+  {
+    "kanji": "料金所",
+    "kana": "りょうきんじょ",
+    "romaji": "ryoukinjo",
+    "meaning": "toll booth",
+    "en": "toll booth",
+    "ru": "пункт оплаты"
+  },
+  {
+    "kanji": "免許証",
+    "kana": "めんきょしょう",
+    "romaji": "menkyosho",
+    "meaning": "driver's license",
+    "en": "driver's license",
+    "ru": "водительское удостоверение"
+  },
+  {
+    "kanji": "保険",
+    "kana": "ほけん",
+    "romaji": "hoken",
+    "meaning": "insurance",
+    "en": "insurance",
+    "ru": "страхование"
+  },
+  {
+    "kanji": "保険証",
+    "kana": "ほけんしょう",
+    "romaji": "hokenshou",
+    "meaning": "insurance card",
+    "en": "insurance card",
+    "ru": "страховой полис"
+  },
+  {
+    "kanji": "ビザ",
+    "kana": "ビザ",
+    "romaji": "biza",
+    "meaning": "visa",
+    "en": "visa",
+    "ru": "виза"
+  },
+  {
+    "kanji": "大使館",
+    "kana": "たいしかん",
+    "romaji": "taishikan",
+    "meaning": "embassy",
+    "en": "embassy",
+    "ru": "посольство"
+  },
+  {
+    "kanji": "領事館",
+    "kana": "りょうじかん",
+    "romaji": "ryoujikan",
+    "meaning": "consulate",
+    "en": "consulate",
+    "ru": "консульство"
+  },
+  {
+    "kanji": "乗る",
+    "kana": "のる",
+    "romaji": "noru",
+    "meaning": "to ride; to get on",
+    "en": "to ride",
+    "ru": "садиться (на транспорт)"
+  },
+  {
+    "kanji": "降りる",
+    "kana": "おりる",
+    "romaji": "oriru",
+    "meaning": "to get off",
+    "en": "to get off",
+    "ru": "выходить (из транспорта)"
+  },
+  {
+    "kanji": "乗り換える",
+    "kana": "のりかえる",
+    "romaji": "norikaeru",
+    "meaning": "to transfer",
+    "en": "to transfer",
+    "ru": "пересаживаться"
+  },
+  {
+    "kanji": "チェックインする",
+    "kana": "チェックインする",
+    "romaji": "chekkuin suru",
+    "meaning": "to check in",
+    "en": "to check in",
+    "ru": "заселяться"
+  },
+  {
+    "kanji": "チェックアウトする",
+    "kana": "チェックアウトする",
+    "romaji": "chekkuauto suru",
+    "meaning": "to check out",
+    "en": "to check out",
+    "ru": "выселяться"
+  },
+  {
+    "kanji": "出発する",
+    "kana": "しゅっぱつする",
+    "romaji": "shuppatsu suru",
+    "meaning": "to depart",
+    "en": "to depart",
+    "ru": "отправляться"
+  },
+  {
+    "kanji": "到着する",
+    "kana": "とうちゃくする",
+    "romaji": "touchaku suru",
+    "meaning": "to arrive",
+    "en": "to arrive",
+    "ru": "прибывать"
+  },
+  {
+    "kanji": "遅れる",
+    "kana": "おくれる",
+    "romaji": "okureru",
+    "meaning": "to be late; delayed",
+    "en": "to be late",
+    "ru": "опаздывать"
+  },
+  {
+    "kanji": "迷う",
+    "kana": "まよう",
+    "romaji": "mayou",
+    "meaning": "to get lost; to be uncertain",
+    "en": "to get lost",
+    "ru": "заблудиться; сомневаться"
+  }
+]
